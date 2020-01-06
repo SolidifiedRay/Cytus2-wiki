@@ -1,0 +1,391 @@
+@charset "utf-8";
+
+/* 总界面样式 */
+
+	.background{
+		background-color: #1b242c;
+	}
+
+	.content-box{
+		width: 85%; 
+		margin:0 auto; 
+		background-color: rgba(255,255,255,0.4);
+	}
+
+	.content{
+		width: 95%; margin:0 auto;
+	}
+
+	.font-title{
+		font-size: 40px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.font-subtitle{
+		font-size: 20px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.song-list-link{
+		font-size: 20px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.font-center{
+		text-align: center;
+	}
+
+	.round-box-top{
+		width: 100%; padding: 5px; border-radius: 8px 8px 0px 0px;
+	}
+
+	.round-box-bottom{
+		width: 100%; padding: 5px; border-radius: 0px 0px 8px 8px;
+	}
+
+	.loading{ /* loading.js 用的样式 */
+		background-color: #BABABA;
+		font-size: 45px;
+		position: fixed;
+		opacity: 0.8;
+		width: 100%;
+	}
+
+	.about-page-font{
+		font-size: 20px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+		line-height: 40px;
+	}
+
+	.index-link-font{
+		font-size: 25px;
+		color: #ffffff;
+	}
+
+/* 导航栏样式 */
+
+	.wiki-navbar{
+		box-shadow: 0 5px 10px #23292f; 
+		background-color: #fafafa; 
+	}
+
+	.navbar-title{
+		font-family: Arial; 
+		font-size: 23px;
+		color: #2b426e;
+	}
+
+	.navbar-subtitle{
+		font-size: 16px;
+		color: #1b1f22;
+	}
+
+	.scrollbar{
+	    width: 100%;
+	    height: 300px;
+	    margin: 0 auto;
+	}
+
+/* 首页样式 */
+
+	.main-background{
+		background-repeat:no-repeat; 
+		background-attachment:fixed; 
+		background-position: center; 
+		background-size:100% 100%;
+	}
+
+	.nav-ui{
+		width: 300px;
+	}
+
+	.nav-box{
+	    width:97%; 
+	    height:145px;
+	    overflow: auto;
+	    float: left;
+	    margin: 5px;
+	    border: none;
+	}
+
+	.nav-box-1::-webkit-scrollbar {/*滚动条整体样式*/
+        width: 10px;     /*高宽分别对应横竖滚动条的尺寸*/
+        height: 1px;
+	}
+
+	.nav-box-1::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+	        border-radius: 10px;
+	         -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+	        background: #535353;
+	}
+
+	.nav-box-1::-webkit-scrollbar-track {/*滚动条里面轨道*/
+	        -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+	        border-radius: 10px;
+	        background: #EDEDED;
+	}
+
+	.center{
+		text-align: center;
+	}
+
+/* 游戏简介颜色 */
+	.about-game-nav{
+		position: fixed; 
+		line-height: 30px;
+	}
+
+/* 曲目信息界面样式 */
+	.song-container{
+		width: 100% !important;
+	}
+
+	.song-title{
+		font-size: 40px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.song-info-box-left{
+		width: 97%; /* 曲目信息界面左列宽度 */
+	}
+
+	.song-info-table{
+		width: 100%;
+	}
+
+	.song-table-cover-art{
+		/* 曲绘格子样式 */
+		width: 79%; 
+		padding: 5px; 
+		border-radius: 0px 0px 0px 8px;
+	}
+
+	.song-table-ver{
+		/* Ver格子样式 */
+		width: 20%; 
+		text-align: center; 
+		border-radius: 0px 0px 8px 0px;
+	}
+
+	.song-table-font{
+		font-size: 18px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+		font-weight:bold;
+	}
+
+	.song-table-padding{
+		/* 曲绘那行与bpm那行的间距 */
+		width: 97%; 
+		margin:8px 0
+	}
+
+	.song-table-content{
+		width: 25%; 
+		text-align: center; 
+		padding: 5px; 
+		border-radius: 8px;
+	}
+
+	.song-subtitle{
+		font-size: 20px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.song-table-level-box{
+		width: 97%; 
+		margin:8px 0;
+	    -moz-box-shadow:5px 5px 5px #2b2b2b inset;               /* For Firefox3.6+ */
+		-webkit-box-shadow:5px 5px 5px #2b2b2b inset;            /* For Chrome5+, Safari5+ */
+		box-shadow:5px 5px 5px #2b2b2b inset;                    /* For Latest Opera */
+		border-radius: 15px;
+		padding-left: 5px;
+	}
+
+	.song-level-table{
+		width: 96%;
+	}
+
+	.level-table-padding{
+		height: 8px;
+	}
+
+	.gamers-table{
+		padding-right: 15px;
+	}
+
+	.song-cover-art-box{
+		width: 97%
+	}
+
+	.song-lyric-box{
+		width: 97%
+	}
+
+	.lyrics-box-background{
+		width: 100%; 
+		margin:0 auto; 
+		background-color: rgba(255,255,255,0.1);
+	}
+
+	.content-font{
+		font-size: 17px;	
+	}
+
+	.content-box-background{
+		background-color: #c2c7cb;
+	}
+
+/* 角色代表颜色 */
+
+	.Aroma-color{
+		background-color: #5cd697;
+	}
+
+	.neko-color{
+		background-color: #e891d9; 
+	}
+
+	.Nora-color{
+		background-color: #a4cdea;
+	}
+
+	.Ivy-color{
+		background-color: #d45554;	
+	}
+
+	.Joe-color{
+		background-color: #82418b;
+	}
+
+	.Cherry-color{
+		background-color: #a8485b;
+	}
+
+	.ConneR-color{
+		background-color: #e79d46;
+	}
+
+	.Xenon-color{
+		background-color: #983b3a;
+	}
+
+	.ROBO-Head-color{
+		background-color: #8fccd6;
+	}
+
+	.Miku-color{
+		background-color: #39C5BB;
+	}
+
+/* 曲目页面角色logo大小 */
+	.song-list-Aroma-logo{
+		width: 35px;
+	}
+
+/* 角色页面样式 */
+	.chara-container{
+		width: 96% !important; 
+	}
+
+	.chara-info-box{
+		width: 95%; 
+		margin: 0 auto; 
+		line-height: 27px;
+	}
+
+	.chara-box-font{
+		font-size: 25px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+	.chara-page-box{
+		width: 100%; 
+		margin:0 auto; 
+		background-color: rgba(255,255,255,0.3);
+		text-align: center;
+	}
+
+	.font-os{
+		font-size: 17px; 
+		color: #ffffff; 
+		font-family: sans-serif;
+	}
+
+/* 歌曲一览页面样式 */
+	.song-list-title{
+		width: 95%; margin:0 auto;
+	}
+
+	.song-list-th{
+		width: 25%; 
+		text-align: center; 
+		padding: 5px; 
+	}
+
+	.song-list-box{
+		width: 95%; margin:0 auto;
+	}
+
+	.song-list-chara-logo{
+		width: 50px;
+	}
+
+	.song-list-Cherry-logo{
+		width: 70px;
+	}
+
+	.song-list-chara-title{
+		color: #FFFFFF; font-size: 30px;
+	}
+
+	.song-list-table{
+		background-color: rgba(255,255,255,0.2);
+	}
+
+	.song-list-song-name-th{
+		width: 30%;
+	}
+
+	.song-list-artists-th{
+		width: 30%;
+	}
+
+	.song-list-difficulty-th{
+		width: 20%;
+	}
+
+	.song-list-unlock-th{
+		width: 20%;
+	}
+
+	.song-list-tr{
+		cursor: pointer
+	}
+
+	.song-list-nav{
+		position: fixed; 
+		line-height: 23px;
+	}
+
+	.chara-logo{
+		text-align: center;
+	}
+
+	.chara-logo-size{
+		width: 130px;
+	}
+
+/* 难度表页面样式 */
+	.difficulty-nav{
+		position: fixed; 
+		line-height: 32px;
+	}
+

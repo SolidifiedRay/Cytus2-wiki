@@ -1,0 +1,98 @@
+[
+  		{
+  			"id": "paff001",
+        "character": "PAFF",
+  			"color": "Aroma-color",
+  			"title": "Body Talk",
+  			"artist": "M2U",
+  			"imgUrl": "./img/song/paff/body_talk.jpg",
+  			"illustrator": "程威誌",
+  			"Ver": "1.0",
+  			"BPM": "128",
+  			"BPMUrl": "https://cytus.fandom.com/wiki/Paff",
+  			"duration": "2:08",
+  			"EasyLevel": "1",
+  			"EasyNote": "88",
+  			"EasyLock": "初始",
+  			"HardLevel": "8",
+  			"HardNote": "382",
+  			"HardLock": "初始",
+  			"ChaosLevel": "12",
+  			"ChaosNote": "667",
+  			"ChaosLock": "Lv 7",
+  			"videos": [
+				{
+					"id": 1,
+					"videoTitle": "手机手元",
+					"player": "MisterPear",
+					"level": "混沌12",
+					"link": "https://www.bilibili.com/video/av23313432/?p=1"
+  				},
+				{
+					"id": 2,
+					"videoTitle": "平板手元",
+					"player": "Mcy-Rballance",
+					"level": "混沌12",
+					"link": "https://www.bilibili.com/video/av23533457"
+  				}
+  			],
+  			"lyricUrl":"./Lyric/paff/body_talk.md",
+  			"lyricSource": "官方cd",
+  			"lyricSourceLink": "",
+  			"IntroUrl":"",
+  			"IntroSource": "",
+  			"IntroSourceLink": "",
+  			"notesUrl":"",
+        "coverArtUrl":"./coverart/paff/body_talk.jpg",
+        "coverArtSource": "pixiv",
+        "coverArtSourceLink": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=65167490",
+        "logoUrl": "./img/logo/Paff_Logo.png",
+        "levelList": "1/8/12",
+        "unlockList": "初始/lv 7"
+  		},
+      {
+        "id": "paff002",
+        "character": "PAFF",
+        "color": "Aroma-color",
+        "title": "Survive",
+        "artist": "Kevin Penkin feat. Nikki Simmons",
+        "imgUrl": "./img/song/paff/survive.jpg",
+        "illustrator": "肉肚脐@Kuroduki",
+        "Ver": "1.0",
+        "BPM": "130",
+        "BPMUrl": "https://cytus.fandom.com/wiki/Paff",
+        "duration": "2:10",
+        "EasyLevel": "1",
+        "EasyNote": "62",
+        "EasyLock": "初始",
+        "HardLevel": "5",
+        "HardNote": "225",
+        "HardLock": "初始",
+        "ChaosLevel": "10",
+        "ChaosNote": "509",
+        "ChaosLock": "Lv 4",
+        "videos": [
+        {
+          "id": 1,
+          "videoTitle": "手机手元",
+          "player": "MisterPear",
+          "level": "混沌10",
+          "link": "https://www.bilibili.com/video/av23313432/?p=2"
+          }
+        ],
+        "lyricUrl":"./Lyric/paff/survive.md",
+        "lyricSource": "官方cd",
+        "lyricSourceLink": "",
+        "IntroUrl":"",
+        "IntroSource": "",
+        "IntroSourceLink": "",
+        "notesUrl":"",
+        "coverArtUrl":"",
+        "coverArtSource": "",
+        "coverArtSourceLink": "",
+        "logoUrl": "./img/logo/Paff_Logo.png",
+        "levelList": "1/5/10",
+        "unlockList": "初始/lv 4"
+      }
+
+]
