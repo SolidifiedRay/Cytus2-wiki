@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import SongPage from './routes/SongPage/SongPage';
 import SongList from './routes/SongList/SongList';
 import Nav from './components/Nav/Nav';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Index from './routes/Index/Index';
+import CharaPage from './routes/CharaPage/CharaPage';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import Data from "./db/db"
 import './App.css';
 
@@ -11,7 +13,7 @@ class App extends Component {
   	const songs = Data.map((song)=>(
   		<Route
   		key={song.id}
-  		path={'/'+ song.title} exact
+  		path={'/'+ song.id} exact
   		render={(props) => <SongPage {...props} songID={""+song.id} />}
   		/>
   	))
@@ -19,8 +21,10 @@ class App extends Component {
     return (
     	<div>
     		<Nav />
-			<Router>	
-				<Route path='/songlist' exact component={SongList} />				  			
+			<Router basename={process.env.PUBLIC_URL}>	
+				<Route path={'/'} exact component={Index} />	
+				<Route path={'/songlist'} exact component={SongList} />	
+				<Route path={'/PAFF'} exact render={(props) => <CharaPage {...props} chara={"PAFF"} />}/>			  			
 				{ songs }
 			</Router>
 		</div>

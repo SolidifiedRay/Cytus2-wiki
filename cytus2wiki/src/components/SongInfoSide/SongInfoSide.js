@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CharaSongList from '../CharaSongList/CharaSongList';
 import CharaList from '../CharaList/CharaList';
+import { HashLink } from 'react-router-hash-link';
 import Data from '../../db/db';
 
 class SongInfoSide extends Component {
@@ -15,12 +16,12 @@ class SongInfoSide extends Component {
             <div>
                 <br/>
         		<font className="song-title">Character:</font><br/>
-                <a href=''>
+                <HashLink to="/PAFF/#top">
                     <font className="song-subtitle">{ songCharacter }</font><br/><br/><br/>
-                </a>
-                <div className="chara-logo"><a href=''>
+                </HashLink>
+                <div className="chara-logo"><HashLink to="/PAFF/#top">
                     <img src={require('' + charaLogoUrl)} className="chara-logo-size" />
-                </a></div><br/>
+                </HashLink></div><br/>
                 <hr/><br/>
                 <CharaSongList character={""+songCharacter} />
                 <hr/><br/>

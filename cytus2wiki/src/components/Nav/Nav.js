@@ -1,32 +1,35 @@
 import React, { Component } from 'react';
+import { HashRouter as Router, Link } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 
 class Nav extends Component {
   
     render(){
         return (
             <div>
-                <nav class="navbar navbar-default navbar-fixed-top wiki-navbar" role="navigation">
-                    <div class="container-fluid">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
+                <Router>
+                <nav className="navbar navbar-default navbar-fixed-top wiki-navbar" role="navigation">
+                    <div className="container-fluid">
+                        <div className="navbar-header">
+                            <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                                <span className="icon-bar"></span>
+                                <span className="icon-bar"></span>
+                                <span className="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="#">
-                                <font class="navbar-title"><b>CYTUS II</b> wiki</font>
+                            <a className="navbar-brand" href="#">
+                                <font className="navbar-title"><b>CYTUS II</b> wiki</font>
                             </a>
                         </div>
-                        <div class="collapse navbar-collapse" id="navbar-menu">
-                            <ul class="nav navbar-nav">
-                                <li class="cative"><a href="http://cytus2wiki.com/" class="navbar-subtitle">首页</a></li>
-                                <li class="cative"><a href="http://cytus2wiki.com/about_game.php" class="navbar-subtitle">游戏简介</a></li>
-                                <li class="dropdown">
-                                    <a href="chara_list.php" class="navbar-subtitle dropdown-toggle" data-toggle="dropdown">角色<b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
+                        <div className="collapse navbar-collapse" id="navbar-menu">
+                            <ul className="nav navbar-nav">
+                                <li className="cative"><HashLink to="/#top" className="navbar-subtitle">首页</HashLink></li>
+                                <li className="cative"><a href="http://cytus2wiki.com/about_game.php" className="navbar-subtitle">游戏简介</a></li>
+                                <li className="dropdown">
+                                    <a href="chara_list.php" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">角色<b className="caret"></b></a>
+                                    <ul className="dropdown-menu">
                                         <li><a href="http://cytus2wiki.com/chara_list.php">一览</a></li>
-                                        <li class="divider"></li>
-                                        <li><a href="http://cytus2wiki.com/PAFF.php">Paff</a></li>
+                                        <li className="divider"></li>
+                                        <li><HashLink to="/PAFF/#top">Paff</HashLink></li>
                                         <li><a href="http://cytus2wiki.com/NEKO1.php">NEKO#ΦωΦ</a></li>
                                         <li><a href="http://cytus2wiki.com/ROBO_Head.php">ROBO_Head</a></li>
                                         <li><a href="http://cytus2wiki.com/Ivy.php">Ivy</a></li>
@@ -41,30 +44,31 @@ class Nav extends Component {
                                         <li><a href="http://cytus2wiki.com/Neko2.php">Neko</a></li>
                                     </ul>
                                 </li>
-                                <li class="cative"><a href="/songlist" class="navbar-subtitle">曲目一览</a></li>
-                                <li class="cative"><a href="http://cytus2wiki.com/difficulty_list.php" class="navbar-subtitle">难度表</a></li>
-                                <li class="dropdown">
-                                    <a href="" class="navbar-subtitle dropdown-toggle" data-toggle="dropdown">剧情<b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
+                                <li className="cative"><HashLink to="/songlist/#top" className="navbar-subtitle">曲目一览</HashLink></li>
+                                <li className="cative"><a href="http://cytus2wiki.com/difficulty_list.php" className="navbar-subtitle">难度表</a></li>
+                                <li className="dropdown">
+                                    <a href="" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">剧情<b className="caret"></b></a>
+                                    <ul className="dropdown-menu">
                                         <li><a href="http://cytus2wiki.com/story_outline.php">重要事件时间线</a></li>
-                                        <li class="divider"></li>
+                                        <li className="divider"></li>
                                         <li><a href="">iM</a></li>
                                         <li><a href="">&ltOS&gt</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown">
-                                    <a href="" class="navbar-subtitle dropdown-toggle" data-toggle="dropdown">Artists<b class="caret"></b></a>
-                                    <ul class="dropdown-menu">
+                                <li className="dropdown">
+                                    <a href="" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">Artists<b className="caret"></b></a>
+                                    <ul className="dropdown-menu">
                                         <li><a href="">音乐</a></li>
                                         <li><a href="">曲绘</a></li>
                                     </ul>
                                 </li>
-                                <li class="cative"><a href="http://cytus2wiki.com/update.php" class="navbar-subtitle">版本更新</a></li>
-                                <li class="cative"><a href="http://cytus2wiki.com/about_wiki.php" class="navbar-subtitle">关于wiki</a></li>
+                                <li className="cative"><a href="http://cytus2wiki.com/update.php" className="navbar-subtitle">版本更新</a></li>
+                                <li className="cative"><a href="http://cytus2wiki.com/about_wiki.php" className="navbar-subtitle">关于wiki</a></li>
                             </ul>
                         </div>
                     </div>
                 </nav>
+                </Router>
         	</div>
         );
     }

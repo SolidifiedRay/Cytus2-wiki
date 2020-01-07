@@ -8,6 +8,7 @@ class SongPage extends Component {
 		return (
 			<div className="background">
 				<div className="content-box">
+					<div id="top"></div>
 					<br/><br/>
 					<div className="container song-container">
 						<div className="row" >

@@ -96,7 +96,7 @@
 		background-repeat:no-repeat; 
 		background-attachment:fixed; 
 		background-position: center; 
-		background-size:100% 100%;
+		background-size:100%;
 	}
 
 	.nav-ui{
@@ -131,6 +131,10 @@
 
 	.center{
 		text-align: center;
+	}
+
+	.index-ui-container{
+		width: 98%;
 	}
 
 /* 游戏简介颜色 */
@@ -242,9 +246,17 @@
 		background-color: #c2c7cb;
 	}
 
+	.song-table-link{
+		text-decoration:underline;
+	}
+
 /* 角色代表颜色 */
 
 	.Aroma-color{
+		background-color: #5cd697;
+	}
+
+	.PAFF-color{
 		background-color: #5cd697;
 	}
 
@@ -367,7 +379,6 @@
 	}
 
 	.song-list-tr{
-		cursor: pointer
 	}
 
 	.song-list-nav{

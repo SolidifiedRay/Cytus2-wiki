@@ -1,5 +1,5 @@
 {
-  "homepage": "https://solidifiedray.github.io/Cytus2-wiki-React",
+  "homepage": "https://solidifiedray.coding.me/cytus2wiki",
   "name": "cytus2wiki",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "react-dom": "^16.12.0",
     "react-markdown": "^4.3.0",
     "react-router-dom": "^5.1.2",
+    "react-router-hash-link": "^1.2.2",
     "react-scripts": "3.3.0"
   },
   "scripts": {

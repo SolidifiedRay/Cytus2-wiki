@@ -23,12 +23,12 @@ class CoverArt extends Component {
                         <div className="panel-heading">
                             <h4 className="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" 
-                                   href="#intro">
+                                   href="#coverart">
                                     点击展开
                                 </a>
                             </h4>
                         </div>
-                        <div id="intro" className="panel-collapse collapse">
+                        <div id="coverart" className="panel-collapse collapse">
                             <div className="panel-body content-box-background">
                                 <img src={require('' + coverArtUrl)} width="100%" alt="" />
                             </div>
