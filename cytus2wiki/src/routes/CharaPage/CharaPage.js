@@ -10,7 +10,13 @@ class SongPage extends Component {
 	render(){
 
 		const chara = ""+this.props.chara;
-		const charaUrl = chara;
+		var charaUrl = chara;
+		if(charaUrl==="NEKO#ΦωΦ"){
+			charaUrl = "NEKO0";
+		}
+		if(charaUrl==="ROBO_Head"){
+			charaUrl = "ROBOHead";
+		}
 
         const charaSong = Data.filter(info => {if(info.character === chara) return info;});
         const charaSongList = charaSong.map((song) =>
@@ -29,7 +35,10 @@ class SongPage extends Component {
 	                </td>
 	            </tr>
         );
-        const songColor = chara +'-color';
+        var songColor = chara +'-color';
+        if(songColor === 'NEKO#ΦωΦ-color'){
+        	songColor = 'neko-color';
+        }
         console.log(songColor);
 
 		return (
@@ -93,7 +102,7 @@ class SongPage extends Component {
 		                                    <img src={require("./img/logo/"+charaUrl+".png")} width="50%"/>
 		                                    <br/><br/>
 		                                </td>
-		                            </tr> +chara+
+		                            </tr>
 		                            </tbody>        
 		                        </table>
 		        			</div>

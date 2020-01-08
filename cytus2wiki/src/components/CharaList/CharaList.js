@@ -10,8 +10,15 @@ class CharaList extends Component {
             <div>
         		<font className="song-subtitle"><b>角色一览：</b></font><br/><br/>
                 <HashLink to="/PAFF/#top">
-                    <font className="font-subtitle">PAFF</font><br/><br/>
+                    <font className="font-subtitle">•PAFF</font><br/>
                 </HashLink>
+                <HashLink to="/NEKO#ΦωΦ/#top">
+                    <font className="font-subtitle">•NEKO#ΦωΦ</font><br/>
+                </HashLink>
+                <HashLink to="/ROBO_Head/#top">
+                    <font className="font-subtitle">•ROBO_Head</font><br/>
+                </HashLink>
+                <br/><br/>
         	</div>
         );
     }

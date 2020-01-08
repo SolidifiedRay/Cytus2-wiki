@@ -28,6 +28,42 @@ class SongList extends Component {
 	            </tr>
         );
 
+        const NEKOSong = Data.filter(info => {if(info.character === "NEKO#ΦωΦ") return info;});
+        const NEKOSongList = NEKOSong.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
+        const ROBO_HeadSong = Data.filter(info => {if(info.character === "ROBO_Head") return info;});
+        const ROBO_HeadSongList = ROBO_HeadSong.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
 		return (
 			<div className="background">
 				<Router>
@@ -74,8 +110,81 @@ class SongList extends Component {
 			                                    </tbody>
 			                                </table>
 			                            </div>
-			                            <br/><br/>
 			                        </div>
+			                        <br/><br/>
+
+			                        <div id="NEKO#ΦωΦ"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/Neko0_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title">NEKO#ΦωΦ</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="neko-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { NEKOSongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
+			                        <div id="ROBO_Head"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/ROBO_Head_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title">ROBO_Head</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="ROBO_Head-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="ROBO_Head-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="ROBO_Head-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="ROBO_Head-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { ROBO_HeadSongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+
+
 			                    </div>
 							</div>
 							<div className="col-md-2 col-sm-12">
@@ -83,8 +192,8 @@ class SongList extends Component {
 			                    <div className="song-list-nav">
 									<b><font className="song-list-link">免费角色曲包</font><br/></b>
 									<HashLink to="/songlist/#PAFF"><font className="song-list-link">PAFF</font></HashLink><br/>
-									<a href="/#/songlist/#NEKO#ΦωΦ"><font className="song-list-link">NEKO#ΦωΦ</font></a><br/>
-									<a href="/#/songlist/#ROBO_Head"><font className="song-list-link">ROBO_Head</font></a><br/>
+									<HashLink to="/songlist/#NEKO#ΦωΦ"><font className="song-list-link">NEKO#ΦωΦ</font></HashLink><br/>
+									<HashLink to="/songlist/#ROBO_Head"><font className="song-list-link">ROBO_Head</font></HashLink><br/>
 									<a href="/#/songlist/#Ivy"><font className="song-list-link">Ivy</font></a><br/>
 									<a href="/#/songlist/#Crystal_PuNK"><font className="song-list-link">Crystal PuNK</font></a><br/>
 									<br/>

@@ -30,8 +30,8 @@ class Nav extends Component {
                                         <li><a href="http://cytus2wiki.com/chara_list.php">一览</a></li>
                                         <li className="divider"></li>
                                         <li><HashLink to="/PAFF/#top">Paff</HashLink></li>
-                                        <li><a href="http://cytus2wiki.com/NEKO1.php">NEKO#ΦωΦ</a></li>
-                                        <li><a href="http://cytus2wiki.com/ROBO_Head.php">ROBO_Head</a></li>
+                                        <li><HashLink to="/NEKO#ΦωΦ/#top">NEKO#ΦωΦ</HashLink></li>
+                                        <li><HashLink to="/ROBO_Head/#top">ROBO_Head</HashLink></li>
                                         <li><a href="http://cytus2wiki.com/Ivy.php">Ivy</a></li>
                                         <li><a href="http://cytus2wiki.com/Crystal_PuNK.php">Crystal PuNK</a></li>
                                         <li><a href="http://cytus2wiki.com/Miku.php">Miku</a></li>

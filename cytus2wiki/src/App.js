@@ -24,7 +24,9 @@ class App extends Component {
 			<Router basename={process.env.PUBLIC_URL}>	
 				<Route path={'/'} exact component={Index} />	
 				<Route path={'/songlist'} exact component={SongList} />	
-				<Route path={'/PAFF'} exact render={(props) => <CharaPage {...props} chara={"PAFF"} />}/>			  			
+				<Route path={'/PAFF'} exact render={(props) => <CharaPage {...props} chara={"PAFF"} />}/>
+        <Route path={'/NEKO'} exact render={(props) => <CharaPage {...props} chara={"NEKO#ΦωΦ"} />}/> 	
+        <Route path={'/ROBO_Head'} exact render={(props) => <CharaPage {...props} chara={"ROBO_Head"} />}/>		  			
 				{ songs }
 			</Router>
 		</div>
