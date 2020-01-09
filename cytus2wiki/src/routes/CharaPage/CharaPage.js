@@ -17,6 +17,9 @@ class SongPage extends Component {
 		if(charaUrl==="ROBO_Head"){
 			charaUrl = "ROBOHead";
 		}
+		if(charaUrl==="Crystal PuNK"){
+			charaUrl = "CrystalPuNK";
+		}
 
         const charaSong = Data.filter(info => {if(info.character === chara) return info;});
         const charaSongList = charaSong.map((song) =>
@@ -38,6 +41,9 @@ class SongPage extends Component {
         var songColor = chara +'-color';
         if(songColor === 'NEKO#ΦωΦ-color'){
         	songColor = 'neko-color';
+        }
+        if(songColor === 'Crystal PuNK-color'){
+        	songColor = 'Cherry-color';
         }
         console.log(songColor);
 

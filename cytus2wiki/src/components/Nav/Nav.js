@@ -32,15 +32,15 @@ class Nav extends Component {
                                         <li><HashLink to="/PAFF/#top">Paff</HashLink></li>
                                         <li><HashLink to="/NEKO#ΦωΦ/#top">NEKO#ΦωΦ</HashLink></li>
                                         <li><HashLink to="/ROBO_Head/#top">ROBO_Head</HashLink></li>
-                                        <li><a href="http://cytus2wiki.com/Ivy.php">Ivy</a></li>
-                                        <li><a href="http://cytus2wiki.com/Crystal_PuNK.php">Crystal PuNK</a></li>
-                                        <li><a href="http://cytus2wiki.com/Miku.php">Miku</a></li>
-                                        <li><a href="http://cytus2wiki.com/Xenon.php">Xenon</a></li>
-                                        <li><a href="http://cytus2wiki.com/ConneR.php">ConneR</a></li>
-                                        <li><a href="http://cytus2wiki.com/Cherry.php">Cherry</a></li>
-                                        <li><a href="http://cytus2wiki.com/JOE.php">JOE</a></li>
-                                        <li><a href="http://cytus2wiki.com/Aroma.php">Aroma</a></li>
-                                        <li><a href="http://cytus2wiki.com/Nora.php">Nora</a></li>
+                                        <li><HashLink to="/Ivy/#top">Ivy</HashLink></li>
+                                        <li><HashLink to="/Crystal PuNK/#top">Crystal PuNK</HashLink></li>
+                                        <li><HashLink to="/Miku/#top">Miku</HashLink></li>
+                                        <li><HashLink to="/Xenon/#top">Xenon</HashLink></li>
+                                        <li><HashLink to="/ConneR/#top">ConneR</HashLink></li>
+                                        <li><HashLink to="/Cherry/#top">Cherry</HashLink></li>
+                                        <li><HashLink to="/JOE/#top">JOE</HashLink></li>
+                                        <li><HashLink to="/Aroma/#top">Aroma</HashLink></li>
+                                        <li><HashLink to="/Nora/#top">Nora</HashLink></li>
                                         <li><a href="http://cytus2wiki.com/Neko2.php">Neko</a></li>
                                     </ul>
                                 </li>
@@ -50,16 +50,6 @@ class Nav extends Component {
                                     <a href="" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">剧情<b className="caret"></b></a>
                                     <ul className="dropdown-menu">
                                         <li><a href="http://cytus2wiki.com/story_outline.php">重要事件时间线</a></li>
-                                        <li className="divider"></li>
-                                        <li><a href="">iM</a></li>
-                                        <li><a href="">&ltOS&gt</a></li>
-                                    </ul>
-                                </li>
-                                <li className="dropdown">
-                                    <a href="" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">Artists<b className="caret"></b></a>
-                                    <ul className="dropdown-menu">
-                                        <li><a href="">音乐</a></li>
-                                        <li><a href="">曲绘</a></li>
                                     </ul>
                                 </li>
                                 <li className="cative"><a href="http://cytus2wiki.com/update.php" className="navbar-subtitle">版本更新</a></li>

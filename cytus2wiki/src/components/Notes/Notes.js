@@ -39,7 +39,7 @@ class Notes extends Component {
                         </div>
                         <div id="notes" className="panel-collapse collapse">
                             <div className="panel-body content-box-background">
-                                <font className="content-font"><ReactMarkdown source={this.state.terms} /></font>
+                                <font className="content-font" ><ReactMarkdown source={this.state.terms}/></font>
                             </div>
                         </div>
                     </div>
