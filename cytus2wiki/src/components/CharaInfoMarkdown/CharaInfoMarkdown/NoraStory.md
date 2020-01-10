@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 691年01月15日（Node03，ShinShenSt），父亲因为未来无法按时缴纳纳奉，将Nroa（三个月大）在交易给土竜成员。Nora被命名为009号实验体，经由组员交给Kim。  
 691年01月23日（Node03，KyuuLab），在玖凰会名下的side  
 project用于「肢体强化」实验。实验失败，导致双脚坏死。连同其他失败品被一同被Kim组员丢在Node03封锁区。  

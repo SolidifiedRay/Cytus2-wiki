@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 import Background from './images/main_bg.jpg';
 
 var backgroundimg = {
-	 backgroundImage: `url(${Background})`
+	backgroundImage: `url(${Background})`,
+	backgroundRepeat: "no-repeat", 
+	backgroundAttachment:"fixed",
+	backgroundPosition: "center", 
+	backgroundSize:"100% 100%"
 }
 
 class Index extends Component {
@@ -61,7 +65,6 @@ class Index extends Component {
 		                    <a href="https://www.rayark.com/g/cytus2/" target="_blank"><font class="font-subtitle">官方网站</font></a><br/>
 		                    <a href="https://weibo.com/cytusII?topnav=1&wvr=6&topsug=1" target="_blank"><font class="font-subtitle">官方微博</font></a><br/><br/>
 		                    <a href="https://tieba.baidu.com/f?kw=cytus2" target="_blank"><font class="font-subtitle">Cytus2 贴吧</font></a><br/>
-		                    <a href=""><font class="font-subtitle">关于wiki</font></a><br/><br/>
 		                    <a href="https://www.taptap.com/app/153415" target="_blank"><font class="font-subtitle">安卓国服下载链接</font></a><br/>
 		                    <a href="https://itunes.apple.com/cn/app/id1316883372" target="_blank"><font class="font-subtitle">ios国服下载链接</font></a><br/><br/>
 		                    <font class="font-subtitle">wiki 交流q群 ： 260032920</font><br/>

@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 当前剧情更新到2.6版本  
 
 684年08月28日（cafe），Saxon（第三象限Bass神）教儿子如何弹Bass。（Joe舅舅是Saxon，但是名义叫他老爹）    

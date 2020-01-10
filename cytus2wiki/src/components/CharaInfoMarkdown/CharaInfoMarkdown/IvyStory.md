@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 当前剧情更新到2.6版本  
 
 102年01月18日（未知，Log），仿人学习系统（英文Log，懒得看，貌似是被重制）。  

@@ -23,11 +23,11 @@ class Nav extends Component {
                         <div className="collapse navbar-collapse" id="navbar-menu">
                             <ul className="nav navbar-nav">
                                 <li className="cative"><HashLink to="/#top" className="navbar-subtitle">首页</HashLink></li>
-                                <li className="cative"><a href="http://cytus2wiki.com/about_game.php" className="navbar-subtitle">游戏简介</a></li>
+                                <li className="cative"><HashLink to="/aboutgame/#top" className="navbar-subtitle">游戏简介</HashLink></li>
                                 <li className="dropdown">
                                     <a href="chara_list.php" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">角色<b className="caret"></b></a>
                                     <ul className="dropdown-menu">
-                                        <li><a href="http://cytus2wiki.com/chara_list.php">一览</a></li>
+                                        <li><HashLink to="/charalist/#top">一览</HashLink></li>
                                         <li className="divider"></li>
                                         <li><HashLink to="/PAFF/#top">Paff</HashLink></li>
                                         <li><HashLink to="/NEKO#ΦωΦ/#top">NEKO#ΦωΦ</HashLink></li>
@@ -39,21 +39,24 @@ class Nav extends Component {
                                         <li><HashLink to="/ConneR/#top">ConneR</HashLink></li>
                                         <li><HashLink to="/Cherry/#top">Cherry</HashLink></li>
                                         <li><HashLink to="/JOE/#top">JOE</HashLink></li>
+                                        <li><HashLink to="/Sagar/#top">Sagar</HashLink></li>
+                                        <li><HashLink to="/Rin/#top">Rin</HashLink></li>
                                         <li><HashLink to="/Aroma/#top">Aroma</HashLink></li>
                                         <li><HashLink to="/Nora/#top">Nora</HashLink></li>
-                                        <li><a href="http://cytus2wiki.com/Neko2.php">Neko</a></li>
+                                        <li><HashLink to="/NekoDLC/#top">Neko</HashLink></li>
                                     </ul>
                                 </li>
                                 <li className="cative"><HashLink to="/songlist/#top" className="navbar-subtitle">曲目一览</HashLink></li>
-                                <li className="cative"><a href="http://cytus2wiki.com/difficulty_list.php" className="navbar-subtitle">难度表</a></li>
+                                <li className="cative"><HashLink to="/difficultylist/#top" className="navbar-subtitle">难度表</HashLink></li>
                                 <li className="dropdown">
                                     <a href="" className="navbar-subtitle dropdown-toggle" data-toggle="dropdown">剧情<b className="caret"></b></a>
                                     <ul className="dropdown-menu">
-                                        <li><a href="http://cytus2wiki.com/story_outline.php">重要事件时间线</a></li>
+                                        <li><HashLink to="/storyoutline/#top">重要事件时间线</HashLink></li>
                                     </ul>
                                 </li>
-                                <li className="cative"><a href="http://cytus2wiki.com/update.php" className="navbar-subtitle">版本更新</a></li>
-                                <li className="cative"><a href="http://cytus2wiki.com/about_wiki.php" className="navbar-subtitle">关于wiki</a></li>
+                                <li className="cative"><HashLink to="/update/#top" className="navbar-subtitle">版本更新</HashLink></li>
+                                <li className="cative"><HashLink to="/aboutwiki/#top" className="navbar-subtitle">关于wiki</HashLink></li>
+                                <li className="cative"><HashLink to="/editwiki/#top" className="navbar-subtitle">编辑wiki</HashLink></li>
                             </ul>
                         </div>
                     </div>

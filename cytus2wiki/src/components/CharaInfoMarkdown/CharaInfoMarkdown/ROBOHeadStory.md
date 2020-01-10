@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 （完整经历可以结合Nora页面下的OS梳理） 
 当前剧情更新到2.6版本  
   

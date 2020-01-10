@@ -20,6 +20,9 @@ class SongPage extends Component {
 		if(charaUrl==="Crystal PuNK"){
 			charaUrl = "CrystalPuNK";
 		}
+		if(charaUrl==="Neko"){
+			charaUrl = "Neko1";
+		}
 
         const charaSong = Data.filter(info => {if(info.character === chara) return info;});
         const charaSongList = charaSong.map((song) =>
@@ -39,13 +42,12 @@ class SongPage extends Component {
 	            </tr>
         );
         var songColor = chara +'-color';
-        if(songColor === 'NEKO#ΦωΦ-color'){
+        if(songColor === 'NEKO#ΦωΦ-color' || songColor == "Neko-color"){
         	songColor = 'neko-color';
         }
         if(songColor === 'Crystal PuNK-color'){
         	songColor = 'Cherry-color';
         }
-        console.log(songColor);
 
 		return (
 		<Router>
@@ -83,11 +85,11 @@ class SongPage extends Component {
 		                    <div className="col-md-1 col-sm-12" >
 		                    </div>
 		        			<div className="col-md-4 col-sm-12">
-		            			<table>
+		            			<table width="100%">
 		            				<tbody>
 		                            <tr>
 		                                <th className={songColor + " round-box-top font-center"}>
-		                                    <font className="chara-box-font">Paff</font>
+		                                    <font className="chara-box-font">{ chara }</font>
 		                                </th>
 		                            </tr>
 		                            <tr>
@@ -156,12 +158,6 @@ class SongPage extends Component {
 		                        <font className="song-subtitle">角色简要经历（OS）</font>
 		                        <hr/>
 		                        <font className="font-os">
-		                            *感谢NoHearter梳理的剧情 qq3207414592 
-		                            <a href="http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647">
-		                                <font className="font-os">b站链接</font>
-		                            </a><br/>
-		                            <br/>
-		                            
 		                                <CharaInfoMarkdown url={"./CharaInfoMarkdown/"+charaUrl+"Story.md"}/>
 		                            <br/>
 		                        </font>

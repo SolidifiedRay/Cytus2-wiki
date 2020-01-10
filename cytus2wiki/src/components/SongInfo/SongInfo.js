@@ -85,7 +85,7 @@ class SongInfo extends Component {
         		<font className="song-subtitle">{ songArtist }</font><br/><br/>
 
         		<div className="song-info-box-left">
-                    <img src={require('' + songImgUrl)} width="100%" alt="" />
+                    <img src={'http://cytus2wiki-x-com.img.abc188.com/' + songImgUrl} width="100%" alt="" />
         			<table className="song-info-table">
                         <tbody>
             				<tr>

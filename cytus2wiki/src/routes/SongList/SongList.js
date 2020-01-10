@@ -226,6 +226,60 @@ class SongList extends Component {
 	            </tr>
         );
 
+        const Neko1Song = Data.filter(info => {if(info.character === "Neko") return info;});
+        const Neko1SongList = Neko1Song.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
+        const SagarSong = Data.filter(info => {if(info.character === "Sagar") return info;});
+        const SagarSongList = SagarSong.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
+        const RinSong = Data.filter(info => {if(info.character === "Rin") return info;});
+        const RinSongList = RinSong.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
 		return (
 			<div className="background">
 				<Router>
@@ -281,7 +335,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Neko0_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">NEKO#ΦωΦ</font></th>
+					                                <th><font className="song-list-chara-title"> NEKO#ΦωΦ</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -317,7 +371,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/ROBO_Head_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">ROBO_Head</font></th>
+					                                <th><font className="song-list-chara-title"> ROBO_Head</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -353,7 +407,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Ivy_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Ivy</font></th>
+					                                <th><font className="song-list-chara-title"> Ivy</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -389,7 +443,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Crystal_PuNK_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Crystal PuNK</font></th>
+					                                <th><font className="song-list-chara-title"> Crystal PuNK</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -425,7 +479,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/miku_logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Miku</font></th>
+					                                <th><font className="song-list-chara-title"> Miku</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -461,7 +515,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Xenon_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Xenon</font></th>
+					                                <th><font className="song-list-chara-title"> Xenon</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -497,7 +551,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/ConneR_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">ConneR</font></th>
+					                                <th><font className="song-list-chara-title"> ConneR</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -533,7 +587,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Cherry_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Cherry</font></th>
+					                                <th><font className="song-list-chara-title"> Cherry</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -569,7 +623,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Joe_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">JOE</font></th>
+					                                <th><font className="song-list-chara-title"> JOE</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -605,7 +659,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Aroma_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Aroma</font></th>
+					                                <th><font className="song-list-chara-title"> Aroma</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -641,7 +695,7 @@ class SongList extends Component {
 			                            	<tbody>
 					                            <tr>
 					                                <th><img src={require('./images/logos/Nora_Logo.png')} className="song-list-chara-logo"/></th>
-					                                <th><font className="song-list-chara-title">Nora</font></th>
+					                                <th><font className="song-list-chara-title"> Nora</font></th>
 					                            </tr>
 					                        </tbody>
 			                            </table>
@@ -669,6 +723,114 @@ class SongList extends Component {
 			                                </table>
 			                            </div>
 			                        </div>
+			                        <br/><br/>
+
+			                        <div id="Neko"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/Neko1_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title"> Neko</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="neko-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="neko-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { Neko1SongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
+			                        <div id="Sagar"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/Sagar_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title">&nbsp;Sagar</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="Sagar-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="Sagar-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="Sagar-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="Sagar-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { SagarSongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
+			                        <div id="Rin"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/Rin_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title">&nbsp;Rin</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="Rin-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="Rin-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="Rin-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="Rin-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { RinSongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
 
 
 			                    </div>
@@ -689,13 +851,15 @@ class SongList extends Component {
 									<HashLink to="/songlist/#ConneR"><font className="song-list-link">ConneR</font></HashLink><br/>
 									<HashLink to="/songlist/#Cherry"><font className="song-list-link">Cherry</font></HashLink><br/>
 									<HashLink to="/songlist/#JOE"><font className="song-list-link">JOE</font></HashLink><br/>
+									<HashLink to="/songlist/#Sagar"><font className="song-list-link">Sagar</font></HashLink><br/>
+									<HashLink to="/songlist/#Rin"><font className="song-list-link">Rin</font></HashLink><br/>
 									<HashLink to="/songlist/#Aroma"><font className="song-list-link">Aroma</font></HashLink><br/>
 									<HashLink to="/songlist/#Nora"><font className="song-list-link">Nora</font></HashLink><br/>
-									<a href="/#/songlist/#Neko"><font className="song-list-link">Neko</font></a><br/>
+									<HashLink to="/songlist/#Neko"><font className="song-list-link">Neko</font></HashLink><br/>
 									<br/>
 									<b>
 									<a href="">
-									<font className="song-list-link">黑市（付费曲包）</font>
+									<HashLink to="/dlclist/#top"><font className="song-list-link">黑市（付费曲包）</font></HashLink>
 									</a><br/></b>
 			                    </div>
 							</div>	

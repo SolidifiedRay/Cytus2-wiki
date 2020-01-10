@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 当前剧情更新到2.6版本  
 
 702年11月18日（Sewer），KAI接站，简单对cherry和xenon讲解Node03的。三人一起去音乐仓库。  

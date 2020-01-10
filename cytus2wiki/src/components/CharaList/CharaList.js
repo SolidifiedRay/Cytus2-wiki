@@ -45,6 +45,12 @@ class CharaList extends Component {
                 <HashLink to="/Nora/#top">
                     <font className="font-subtitle">•Nora</font><br/>
                 </HashLink>
+                <HashLink to="/NekoDLC/#top">
+                    <font className="font-subtitle">•Neko</font><br/>
+                </HashLink>
+                <HashLink to="/Sagar/#top">
+                    <font className="font-subtitle">•Sagar</font><br/>
+                </HashLink>
                 <br/><br/>
         	</div>
         );

@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 \*后续剧情见Crystal PuNK  
 688年09月18日（bug？？？）(感觉就是雷亚中二取了个bug的名字,可能是想设定成这个语言文档本身不应该存在所以是bug之类的?)父亲骑车带着女儿。Cherry抱怨父亲没有及时看到颁奖。父亲奖励女儿去ben叔叔店里挑玩具。Cherry打算买SENA GAMEBAI III。父亲感觉小贵。女儿打趣说父亲没用，母亲也不在了。女儿希望自己也能独立。  
 688年09月18日（照片），Cherry获奖照片，父亲拍摄的。  

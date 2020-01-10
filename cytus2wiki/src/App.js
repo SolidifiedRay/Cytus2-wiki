@@ -1,9 +1,17 @@
 import React, { Component } from 'react';
 import SongPage from './routes/SongPage/SongPage';
 import SongList from './routes/SongList/SongList';
+import DLCList from './routes/DLCList/DLCList';
 import Nav from './components/Nav/Nav';
 import Index from './routes/Index/Index';
+import Update from './routes/Update/Update';
+import AboutWiki from './routes/AboutWiki/AboutWiki';
+import EditWiki from './routes/EditWiki/EditWiki';
+import StoryOutline from './routes/StoryOutline/StoryOutline';
+import AboutGame from './routes/AboutGame/AboutGame';
+import DifficultyList from './routes/DifficultyList/DifficultyList';
 import CharaPage from './routes/CharaPage/CharaPage';
+import CharaList from './routes/CharaList/CharaList';
 import { HashRouter as Router, Route } from 'react-router-dom';
 import Data from "./db/db"
 import './App.css';
@@ -23,7 +31,15 @@ class App extends Component {
     		<Nav />
 			<Router basename={process.env.PUBLIC_URL}>	
 				<Route path={'/'} exact component={Index} />	
+        <Route path={'/aboutgame'} exact component={AboutGame} />  
+        <Route path={'/update'} exact component={Update} />  
+        <Route path={'/aboutwiki'} exact component={AboutWiki} />  
+        <Route path={'/editwiki'} exact component={EditWiki} />  
+        <Route path={'/storyoutline'} exact component={StoryOutline} />  
+        <Route path={'/charalist'} exact component={CharaList} />  
+        <Route path={'/difficultylist'} exact component={DifficultyList} />
 				<Route path={'/songlist'} exact component={SongList} />	
+        <Route path={'/dlclist'} exact component={DLCList} /> 
 				<Route path={'/PAFF'} exact render={(props) => <CharaPage {...props} chara={"PAFF"} />}/>
         <Route path={'/NEKO'} exact render={(props) => <CharaPage {...props} chara={"NEKO#ΦωΦ"} />}/> 	
         <Route path={'/ROBO_Head'} exact render={(props) => <CharaPage {...props} chara={"ROBO_Head"} />}/>		
@@ -35,7 +51,10 @@ class App extends Component {
         <Route path={'/Cherry'} exact render={(props) => <CharaPage {...props} chara={"Cherry"} />}/>      
         <Route path={'/JOE'} exact render={(props) => <CharaPage {...props} chara={"JOE"} />}/>           
         <Route path={'/Aroma'} exact render={(props) => <CharaPage {...props} chara={"Aroma"} />}/>        
-        <Route path={'/Nora'} exact render={(props) => <CharaPage {...props} chara={"Nora"} />}/>      
+        <Route path={'/Nora'} exact render={(props) => <CharaPage {...props} chara={"Nora"} />}/>         
+        <Route path={'/NekoDLC'} exact render={(props) => <CharaPage {...props} chara={"Neko"} />}/>      
+        <Route path={'/Sagar'} exact render={(props) => <CharaPage {...props} chara={"Sagar"} />}/>        
+        <Route path={'/Rin'} exact render={(props) => <CharaPage {...props} chara={"Rin"} />}/>   
 				{ songs }
 			</Router>
 		</div>

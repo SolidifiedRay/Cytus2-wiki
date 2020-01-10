@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 702年10月09日（MHall），Miku现场表演。下来后，Miku在SLab01和组员A交谈话，纳闷自己为什么表演完只能回到房间。庆功宴上，组员向Furuhata   主任汇报了Miku抱怨不能参加庆功宴。主人打算重置或者在现实做一个交互。  
 702年11月03日（SLab01），由于cyTus网络冲击，依赖cyTus技术的公司纷纷受到影响，Miku也不例外，正常交流无法进行，演唱会被迫取消，最终打算重置，使用一个新版本的Miku参加演唱会。  
 ？？？？？？？Miku发现跟多和自己一模一样的自己，情绪崩溃。  

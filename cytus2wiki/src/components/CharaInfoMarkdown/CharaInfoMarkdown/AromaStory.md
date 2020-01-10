@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)
+
 （完整经历可以结合PAFF页面下的OS梳理）  
 693年08月09日（Noah），aroma和Iris谈论升学考试。Noah酗酒回家抱怨部门占用资源，发生了未知事情。  
 （重复PAFF）693年08月16日（医院），Helena在03医院醒来。医生尝试了和方法都没法完全取出碎屑。Noah夫妇非常着急。  

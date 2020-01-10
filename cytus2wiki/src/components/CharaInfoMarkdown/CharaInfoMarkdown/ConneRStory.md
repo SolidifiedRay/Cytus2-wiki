@@ -1,3 +1,5 @@
+\*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
+
 676年04月08日（Conner老家），假期中幼年的Conner依然被父亲严格的管教。慈祥的母亲Alyxia认为过于严格，但是重新让Neumann家族回归到名门之列的老爷子希望自己儿子能比自己更优秀。老爷子和幼年的Conner都希望Conner可以在未来进入要求严格的勘探队中。  
 682年06月16日（墓地），勘探队集体阵亡事件。死者Luka是年幼的Sagar的父亲。队友们很气愤Colin家族没有参加葬礼。  
 683年07月09日（conner老家），老爷子因为解雇和酗酒大发雷霆，Alyxia准备带上conner离家出走，但是conner坚持要留下来。  
