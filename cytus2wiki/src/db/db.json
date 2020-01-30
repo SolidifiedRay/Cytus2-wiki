@@ -1936,7 +1936,7 @@
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/neko0/rei.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -5628,7 +5628,7 @@
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/crystalpunk/the_cross.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10564,7 +10564,7 @@
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/sagar/immram_brain.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"./notes/sagar/Immram_Brain.md",
@@ -10597,6 +10597,13 @@
         "ChaosNote": "813",
         "ChaosLock": "Lv 4",
         "videos": [
+                  {
+                    "id": 2,
+                    "videoTitle": "平板手元",
+                    "player": "Mcy-Rballance",
+                    "level": "混沌13",
+                    "link": "https://www.bilibili.com/video/av82761561"
+                  }
         ],
         "lyricUrl":"",
         "lyricSource": "",
@@ -10626,19 +10633,19 @@
         "duration": "2:12",
         "EasyLevel": "4",
         "EasyNote": "262",
-        "EasyLock": "",
+        "EasyLock": "Lv 9",
         "HardLevel": "7",
         "HardNote": "555",
-        "HardLock": "",
+        "HardLock": "Lv 9",
         "ChaosLevel": "14",
         "ChaosNote": "892",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 9",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/sagar/doldrums.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10647,7 +10654,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "4/7/14",
-        "unlockList": ""
+        "unlockList": "Lv 9"
       },
       {
         "id": "Sagar006",
@@ -10663,13 +10670,13 @@
         "duration": "2:32",
         "EasyLevel": "5",
         "EasyNote": "443",
-        "EasyLock": "",
+        "EasyLock": "Lv 12",
         "HardLevel": "9",
         "HardNote": "712",
-        "HardLock": "",
+        "HardLock": "Lv 12",
         "ChaosLevel": "14",
         "ChaosNote": "1075",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 12",
         "videos": [
         ],
         "lyricUrl":"",
@@ -10684,7 +10691,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "4/7/14",
-        "unlockList": ""
+        "unlockList": "Lv 12"
       },
       {
         "id": "Sagar007",
@@ -10692,7 +10699,7 @@
         "color": "Sagar-color",
         "title": "Legacy",
         "artist": "technoplanet",
-        "imgUrl": "./img/song/sagar/Nidhogg.jpg",
+        "imgUrl": "./img/song/sagar/Legacy.jpg",
         "illustrator": "未知",
         "Ver": "2.8",
         "BPM": "148",
@@ -10700,19 +10707,19 @@
         "duration": "2:43",
         "EasyLevel": "5",
         "EasyNote": "464",
-        "EasyLock": "",
+        "EasyLock": "Lv 14",
         "HardLevel": "7",
         "HardNote": "787",
-        "HardLock": "",
+        "HardLock": "Lv 14",
         "ChaosLevel": "13",
         "ChaosNote": "1149",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 14",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/sagar/legacy.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10721,7 +10728,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "4/7/13",
-        "unlockList": ""
+        "unlockList": "Lv 14"
       },
       {
         "id": "Sagar008",
@@ -10737,19 +10744,19 @@
         "duration": "2:43",
         "EasyLevel": "3",
         "EasyNote": "246",
-        "EasyLock": "",
+        "EasyLock": "Lv 15",
         "HardLevel": "7",
         "HardNote": "672",
-        "HardLock": "",
+        "HardLock": "Lv 15",
         "ChaosLevel": "13",
         "ChaosNote": "1017",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 15",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/sagar/a_portent_of_the_silver_wheel.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10758,7 +10765,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "3/7/13",
-        "unlockList": ""
+        "unlockList": "Lv 15"
       },
       {
         "id": "Sagar009",
@@ -10774,19 +10781,19 @@
         "duration": "2:57",
         "EasyLevel": "3",
         "EasyNote": "270",
-        "EasyLock": "",
+        "EasyLock": "Lv 17",
         "HardLevel": "7",
         "HardNote": "606",
-        "HardLock": "",
+        "HardLock": "Lv 17",
         "ChaosLevel": "14",
         "ChaosNote": "1165",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 17",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/sagar/sacrifice.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10795,7 +10802,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "3/7/14",
-        "unlockList": ""
+        "unlockList": "Lv 17"
       },
       {
         "id": "Sagar010",
@@ -10811,14 +10818,21 @@
         "duration": "2:16",
         "EasyLevel": "4",
         "EasyNote": "251",
-        "EasyLock": "",
+        "EasyLock": "Lv 20",
         "HardLevel": "8",
         "HardNote": "611",
-        "HardLock": "",
+        "HardLock": "Lv 20",
         "ChaosLevel": "14",
         "ChaosNote": "1136",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 20",
         "videos": [
+                  {
+                    "id": 2,
+                    "videoTitle": "平板手元",
+                    "player": "Mcy-Rballance",
+                    "level": "混沌14",
+                    "link": "https://www.bilibili.com/video/av83589739"
+                  }
         ],
         "lyricUrl":"",
         "lyricSource": "",
@@ -10832,7 +10846,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Sagar_Logo.png",
         "levelList": "4/8/14",
-        "unlockList": ""
+        "unlockList": "Lv 20"
       },
       {
         "id": "Rin001",
@@ -10897,7 +10911,7 @@
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/rin/the_grand_debate.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10934,7 +10948,7 @@
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/rin/san_deng_huo.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -10996,13 +11010,13 @@
         "duration": "2:49",
         "EasyLevel": "2",
         "EasyNote": "224",
-        "EasyLock": "",
+        "EasyLock": "Lv 4",
         "HardLevel": "5",
         "HardNote": "436",
-        "HardLock": "",
+        "HardLock": "Lv 4",
         "ChaosLevel": "10",
         "ChaosNote": "652",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 4",
         "videos": [
         ],
         "lyricUrl":"",
@@ -11017,7 +11031,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "2/5/10",
-        "unlockList": ""
+        "unlockList": "Lv 4"
       },
       {
         "id": "Rin006",
@@ -11033,13 +11047,13 @@
         "duration": "2:24",
         "EasyLevel": "5",
         "EasyNote": "365",
-        "EasyLock": "",
+        "EasyLock": "Lv 7",
         "HardLevel": "9",
         "HardNote": "686",
-        "HardLock": "",
+        "HardLock": "Lv 7",
         "ChaosLevel": "14",
         "ChaosNote": "1090",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 7",
         "videos": [
         ],
         "lyricUrl":"",
@@ -11054,7 +11068,7 @@
         "coverArtSourceLink": "https://twitter.com/mitsu_akuma/status/1214548490925166592/photo/1",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "5/9/14",
-        "unlockList": ""
+        "unlockList": "Lv 7"
       },
       {
         "id": "Rin007",
@@ -11070,14 +11084,21 @@
         "duration": "2:24",
         "EasyLevel": "4",
         "EasyNote": "438",
-        "EasyLock": "",
+        "EasyLock": "Lv 11",
         "HardLevel": "9",
         "HardNote": "810",
-        "HardLock": "",
+        "HardLock": "Lv 11",
         "ChaosLevel": "14",
         "ChaosNote": "1185",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 11",
         "videos": [
+                  {
+                    "id": 2,
+                    "videoTitle": "平板手元",
+                    "player": "Mcy-Rballance",
+                    "level": "混沌14",
+                    "link": "https://www.bilibili.com/video/av82760547"
+                  }
         ],
         "lyricUrl":"",
         "lyricSource": "",
@@ -11091,7 +11112,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "4/9/14",
-        "unlockList": ""
+        "unlockList": "Lv 11"
       },
       {
         "id": "Rin008",
@@ -11107,19 +11128,19 @@
         "duration": "2:24",
         "EasyLevel": "4",
         "EasyNote": "300",
-        "EasyLock": "",
+        "EasyLock": "Lv 16",
         "HardLevel": "7",
         "HardNote": "542",
-        "HardLock": "",
+        "HardLock": "Lv 16",
         "ChaosLevel": "13",
         "ChaosNote": "810",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 16",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/rin/jue_zhan.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -11128,7 +11149,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "4/7/13",
-        "unlockList": ""
+        "unlockList": "Lv 16"
       },
       {
         "id": "Rin009",
@@ -11144,19 +11165,19 @@
         "duration": "2:24",
         "EasyLevel": "2",
         "EasyNote": "165",
-        "EasyLock": "",
+        "EasyLock": "Lv 18",
         "HardLevel": "6",
         "HardNote": "305",
-        "HardLock": "",
+        "HardLock": "Lv 18",
         "ChaosLevel": "11",
         "ChaosNote": "587",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 18",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/rin/mari_temari.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -11165,7 +11186,7 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "2/6/11",
-        "unlockList": ""
+        "unlockList": "Lv 18"
       },
       {
         "id": "Rin010",
@@ -11181,19 +11202,19 @@
         "duration": "2:31",
         "EasyLevel": "3",
         "EasyNote": "274",
-        "EasyLock": "",
+        "EasyLock": "Lv 20",
         "HardLevel": "6",
         "HardNote": "463",
-        "HardLock": "",
+        "HardLock": "Lv 20",
         "ChaosLevel": "11",
         "ChaosNote": "672",
-        "ChaosLock": "",
+        "ChaosLock": "Lv 20",
         "videos": [
         ],
         "lyricUrl":"",
         "lyricSource": "",
         "lyricSourceLink": "",
-        "IntroUrl":"",
+        "IntroUrl":"./intro/rin/inari.md",
         "IntroSource": "",
         "IntroSourceLink": "",
         "notesUrl":"",
@@ -11202,6 +11223,6 @@
         "coverArtSourceLink": "",
         "logoUrl": "./img/logo/Rin_Logo.png",
         "levelList": "3/6/11",
-        "unlockList": ""
+        "unlockList": "Lv 20"
       }
 ]

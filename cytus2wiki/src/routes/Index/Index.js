@@ -71,6 +71,7 @@ class Index extends Component {
 		                    <a href="https://www.weibo.com/5121541026/profile?rightmod=1&wvr=6&mod=personinfo" target="_blank"><font class="font-subtitle">wiki个人微博：@SolidifiedRay</font></a>
 		                    <br/><br/>
 		                    <img src={require('./images/rayark.png')} width="80%"/><br/><br/><br/><br/><br/><br/>
+		                    <br/><br/><br/>
 		                </div>
 		            </div>
 		        </div>

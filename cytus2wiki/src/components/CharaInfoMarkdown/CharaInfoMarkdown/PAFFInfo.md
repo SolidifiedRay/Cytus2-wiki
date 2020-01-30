@@ -3,7 +3,7 @@ iM ID： PAFF-Official
 别名： PAFF、 PUFF、 泡芙、 歌姬  
 曲风： POP / Vocal EDM  
 主题色： 青绿色  
-等级上限： Lv75 -> Lv76 （2.7 版本）
+等级上限： Lv76 （2.85 版本）
 
 性别： 女  
 身高： 166cm  
