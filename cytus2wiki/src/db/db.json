@@ -370,6 +370,9 @@
         "ChaosLevel": "12",
         "ChaosNote": "855",
         "ChaosLock": "Lv 20",
+        "GlitchLevel": "13",
+        "GlitchNote": "881",
+        "GlitchLock": "CAPSO",
         "videos": [
           {
             "id": 1,
@@ -1632,6 +1635,9 @@
         "ChaosLevel": "15",
         "ChaosNote": "1024",
         "ChaosLock": "Lv 25",
+        "GlitchLevel": "15",
+        "GlitchNote": "1107",
+        "GlitchLock": "CAPSO",
         "videos": [
                   {
                     "id": 1,
@@ -3380,6 +3386,9 @@
         "ChaosLevel": "12",
         "ChaosNote": "893",
         "ChaosLock": "Lv 24",
+        "GlitchLevel": "14",
+        "GlitchNote": "1110",
+        "GlitchLock": "CAPSO",
         "videos": [
                   {
                     "id": 1,
@@ -6678,6 +6687,9 @@
         "ChaosLevel": "13",
         "ChaosNote": "632",
         "ChaosLock": "Lv 21",
+        "GlitchLevel": "14",
+        "GlitchNote": "774",
+        "GlitchLock": "CAPSO",
         "videos": [
                   {
                     "id": 1,
@@ -7234,6 +7246,9 @@
         "ChaosLevel": "13",
         "ChaosNote": "879",
         "ChaosLock": "初始",
+        "GlitchLevel": "15",
+        "GlitchNote": "885",
+        "GlitchLock": "CAPSO",
         "videos": [
                   {
                     "id": 1,
