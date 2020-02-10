@@ -39,7 +39,7 @@ Though the lights are gone
 And the sound offshore
 I could feel that your soul will still go on
 
-Repeat *x2
+Repeat \*x2
 
 Sunshine……..
 Duration………

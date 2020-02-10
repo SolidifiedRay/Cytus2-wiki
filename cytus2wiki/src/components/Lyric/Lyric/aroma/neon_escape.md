@@ -1,37 +1,18 @@
-Give it all in to temptation  
-Let them call me fabulation  
-Wanna get my imagination burn  
-It’s the only way to heaven  
-I’ve been walking with loneliness  
-Never knowing who will turn the spotlight on  
+在夜裡穿梭 毫不疲憊的霓虹燈火  
+僅僅想捕獲 一次電光石火的共鳴  
+而整點廣播 輪番播放命運的荒謬  
+又何須在意 世界如今還破碎依舊  
 
-Here you are, here you are  
-Waiting like a silent star  
-Sprinkle the galaxy, spin my steps  
-Now I’ve found here you are  
-here you are  
+想奪回主導權 定義「自我」 才像螻蟻那般掙扎  
+而你純黑無瑕 眼瞳之中 在渴望解答  
+黑夜是道魔咒 將駭人怪物 扭曲為虛偽的美  
+憑遙遠狼煙 探尋方位 再一同逃脫  
 
-Faces of flat expression  
-Colors without inspiration   
-Here comes another ordinary day  
-We don’t need a way to heaven  
-Fever’s in my fingertips  
-No more doubting here will be a spotlight on   
-
-Here you are, here you are  
-Waiting like a silent star  
-Sprinkle the galaxy, spin my steps  
-Now I’ve found here you are  
-here you are  
-
-Here you are, here you are  
-Waiting like a silent star  
-Sprinkle the galaxy, spin my steps  
-Now I’ve found here you are  
-here you are  
-
-Here you are, here you are  
-Waiting like a silent star  
-Sprinkle the galaxy, spin my steps  
-Now I’ve found here you are  
-here you are  
+Neon escape 失控的伊甸園   
+在不懂眼淚價值的城市裡流浪  
+Wanna escape 你玻璃般的心  
+不應該被尖銳而低廉謊言擊碎  
+Neon escape 在今夜冷雨下  
+快區分不出你是否也一同落淚  
+Final escape 為真實的曙光  
+我願意投降 與你逃向未知的彼方  

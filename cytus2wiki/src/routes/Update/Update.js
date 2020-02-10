@@ -17,7 +17,7 @@ class Update extends Component {
 		            <div class="row">
 		                <div class="col-md-12 col-sm-12">
 		                    <div class="content">
-		                        <font class="font-title">游戏版本更新 （当前wiki版本为 2.8）</font><br/>
+		                        <font class="font-title">游戏版本更新 （当前wiki版本为 2.8-2.85）</font><br/>
 		                        <hr/>
 		                        <div class="font-subtitle" >
                        				<CharaInfoMarkdown url={"./CharaInfoMarkdown/Update.md"}/>
