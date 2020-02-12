@@ -1,7 +1,7 @@
 \*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
 
 （完整经历可以结合neko dlc角色页面下的OS梳理）   
-当前剧情更新到2.6版本  
+当前剧情更新到2.85版本  
 
 695年11月13日（St136），刚毕业三个月，Clara拖着Daniel去参加同学会，Daniel不想参加。两人回忆了一些往事，最后一去酒吧喝酒。  
 699年12月24日（NL），Linda去Neko家过圣诞。（For You the Bellz Toll）  
@@ -24,4 +24,6 @@
 702年 11月20日（Trans），Vicky送三人上火车前往node03，vicky已经被node03禁止入境。小情侣独处时间，Kaori不想把事情闹大。Neko吃醋。  
 702年 11月22日（shiraishi），Neko，PAFF和Hayato在Neko老家唠家常。  
 702年 11月23日（Grave），在芳奶奶的坟前，背包丢失，PAFF接到了Nora的指引。  
-702年12月14日（Nora），主角团应对针对玖凰会的袭击。
+702年12月14日（Nora），主角团应对针对玖凰会的袭击。  
+702年12月15日（TigerSt），Neko打电话给Hayato，说自己打算找KAI，然后回到自己家中。    
+702年12月21日（ShadowSt），Neko根据PAFF提示找到了在雨中瘫倒的Xenon。Neko劝说无果，二人撕破了脸，最后Neko扇了Xenon一巴掌。Xenon给Neko讲述自己昨天和Diego对台戏的经过。最后被KAI接回家。  

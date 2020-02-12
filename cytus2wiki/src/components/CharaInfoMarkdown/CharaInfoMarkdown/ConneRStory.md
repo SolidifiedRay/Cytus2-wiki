@@ -1,5 +1,7 @@
 \*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
 
+当前剧情更新到2.85版本  
+
 676年04月08日（Conner老家），假期中幼年的Conner依然被父亲严格的管教。慈祥的母亲Alyxia认为过于严格，但是重新让Neumann家族回归到名门之列的老爷子希望自己儿子能比自己更优秀。老爷子和幼年的Conner都希望Conner可以在未来进入要求严格的勘探队中。  
 682年06月16日（墓地），勘探队集体阵亡事件。死者Luka是年幼的Sagar的父亲。队友们很气愤Colin家族没有参加葬礼。  
 683年07月09日（conner老家），老爷子因为解雇和酗酒大发雷霆，Alyxia准备带上conner离家出走，但是conner坚持要留下来。  
@@ -55,4 +57,7 @@
 702年11月08日（CArea），ConneR劫狱视角，给了Xenon看了曾经xenon和cherry一起调查的录像，让xenon感到很惊讶，并给了他两个选择，和他一起去Node03调查，顺便告诉Xenon想知道的一切，或者留下来等官方换一个清白或者等死。Xenon听到conner交谈机里面cherry声音，cherry也很惊讶。Conner离开牢房（去找cherry）。  
 702年11月10日（Port33），cherry陪同Xenon上了出逃的车，前往Node03，Conner想办法潜逃到Node13。Xenon看到正在看手表的Conner，并简短谈话，conner给Xenon透露了关于自己父亲的一些事情，让xenon震惊不已，而且Conner已经知晓Xenon要组队的事情。  
 702年11月20日（Garions），Xenon和Conner通电，conner叫Xenon等待他的下一步指令，先了解荷鲁斯之眼，不要轻易触碰Node03的黑帮。用餐时的Conner接到了线人提供的信息：第三象限57路16号。  
-702年11月21日（13St57），Conner找到了sasha希望可以在Node13方言方面帮助自己。其实这时候的Sasha已经不想再次惹祸上身。
+702年11月21日（13St57），Conner找到了sasha希望可以在Node13方言方面帮助自己。其实这时候的Sasha已经不想再次惹祸上身。  
+702年12月15日（Sasha），Sasha揭秘“穹之核，心之音”，二人怀疑Rald和当时的反科技组织有联系。同时也发现在除役事件前后的相关文件书籍都有缺页的迹象。Node13本在除役事件之后便不再有科技产物，只有纸本保存。接下来Conner打算强行做连接实验。  
+702年12月16日（Sasha），Conner在Sasha帮助下完成连接实验，只看到破碎的图像，但是看出来一个面孔。此时电视正在报道Ivy救下小女孩的事迹。  
+702年12月17日（13St35），conner与Sasha分别。  

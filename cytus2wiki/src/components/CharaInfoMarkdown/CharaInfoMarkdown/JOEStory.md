@@ -1,6 +1,6 @@
 \*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
 
-当前剧情更新到2.6版本  
+当前剧情更新到2.85版本  
 
 684年08月28日（cafe），Saxon（第三象限Bass神）教儿子如何弹Bass。（Joe舅舅是Saxon，但是名义叫他老爹）    
 687年02月27日（cafe），Joe开始养Zark（狗）。父亲以朋友的名字给狗取名Zark。  
@@ -38,3 +38,4 @@
 702年11月08日（CArea），Joe和Cherry组队劫狱，结果Joe被执法人员发现，cherry单独行动。  
 702年11月10日（st91），前提摘要，joe开始为xenon出逃到Node03说服Hunter。  
 702年11月17日（cafe），流鼻血的Aroma和Neko来到cafe，Aroma突然想起来自己是Kaori，跑出去找Hayato。此时，Joe想起来Hayato曾经来店里找过Kaori，Neko根据照片上的公司地址出门寻找Aroma，这时候Xenon打来电话。Xenon担心无人机攻击城市会伤到Joe，所幸距离较远。Joe将刚刚发生的事情告诉Xenon，xenon这时候打算去Node03。Joe希望可以通过KAI的帮助，让Xenon的Cherry在Node03留下。  
+702年12月21日（Baro），Diego的死让Baro一片混乱。Joe在当时被无人机轰炸的时候发现了墙内的保险柜，Joe打算用柜里面的钱用来改变公众对黑帮的认识，重塑平衡，虽然Hunter表示不满，Baro多数还是同意了。  

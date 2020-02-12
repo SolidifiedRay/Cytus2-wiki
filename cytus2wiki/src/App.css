@@ -408,3 +408,8 @@
 		line-height: 32px;
 	}
 
+/* 时间线总览样式 */
+	.story-outline-font{
+		font-size: 12px;
+		color: white;
+	}

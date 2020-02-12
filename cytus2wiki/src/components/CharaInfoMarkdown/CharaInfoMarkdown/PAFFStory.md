@@ -1,7 +1,7 @@
 \*感谢NoHearter梳理的剧情 qq3207414592 [b站链接](http://space.bilibili.com/17435569?share_medium=android&share_source=copy_link&bbid=LxstGCpOeBkuHSxINEg0UWMCMVJgUginfoc&ts=1548688570647)  
 
 （完整经历可以结合Aroma页面下的OS梳理）  
-当前剧情更新到2.6版本  
+当前剧情更新到2.85版本  
 
 687年05月13日（Charity），芳奶奶去古畑慈善机构打算再领养一个孩子，选择了Hayato。当时Kaori也是从这里被领养的。  
 688年12月24日（Xmas），Helena无心在店里工作，PAFF跑去找姐姐。圣诞夜PAFF歌声救场。（Winter Games）  
@@ -24,7 +24,7 @@
 694年05月12日（ARC），洗脑视频。其实已经进行了第六次实验，依然失败。海伦娜已经厌恶了这样的事情了，但是Noah还打算坚持去做。  
 694年05月15日（ARC），PAFF醒来，但是已经记不起Helena是谁。Helena只能相信Noah。但事实，aroma的记忆没有唤醒，Noah虽然想再次进行实验，但是被海伦娜制止，最后寄希望于软性治疗来唤醒记忆。  
 695年06月05日（Noah），同学上门拜访，但是被海伦娜以需要训练为理由挡在了门外，之后才了解到，他们以后搬家就可能再也回不来，所以才想见一面，但是也没有见到Aroma。  
-701年12月24日（Xmas），再一次圣诞夜，PAFF回忆起来小时候在Heaven Note的表演。唱的Winter Games。  
+701年12月24日（Xmas），再一次圣诞夜，PAFF回忆起来小时候在Heaven   Note的表演。唱的Winter Games。  
 702年01月18日（08服务器），AEsir-FEST现场，准备PAFF上台表演。（Body Talk）  
 702年07月27日（Arena），（Gravity）PAFF现场演唱会。PAFF七周年表演，稳压器警报。PAFF昏倒在舞台上。  
 702年07月28日（医院），PAFF醒来，和Noah简短对话。认定Aroam是过度劳累，休息下就好。  
@@ -32,7 +32,7 @@
 702年09月01日（Noah），PAFF又把自己关到屋子里。Helena实在想不到理由推辞掉表演。但是PAFF的一反常态和极力拒绝，让Helena无可奈何，最后还是请了Cherry顶替。  
 702年09月09日（Noah），夫妻二人在外面关于Aroam时常会有一些错乱的记忆而抱怨Noah的实验根本没有成功，但是Noah也想说自己当时是被海伦娜制止才会成现在正半吊子的模样。夫妻二人打算将一切真相都告诉Aroam，但当Helena进屋后，发现PAFF出逃。喇叭君也被带走了。  
 702年09月25日（TunerSam），单声正式和PAFF解约。此时PAFF已经失踪（离家出走）。PAFF想找Iris未遂，听到了Neko的音乐（Sunday Night Blues），询问喇叭君，找到了Neko地址。  
-702年10月07日（Academy），Neko和Aroma一起回到学院。Neko引开无人机和学生，Aroma趁机查询图书馆系统，证实了Iris（Iris   Baker）是685年毕业生，而且确实有这个人。有一张不明意义的图片。Neko意识到自己的音乐的记忆错乱，两人谈论到Xenon。话题最后拐到了Lris身上，照片里是Lris和她的弟弟，两人准备去山风乐器找线索。
+702年10月07日（Academy），Neko和Aroma一起回到学院。Neko引开无人机和学生，Aroma趁机查询图书馆系统，证实了Iris（Iris Baker）是685年毕业生，而且确实有这个人。有一张不明意义的图片。Neko意识到自己的音乐的记忆错乱，两人谈论到Xenon。话题最后拐到了Lris身上，照片里是Lris和她的弟弟，两人准备去山风乐器找线索。  
 702年10月18日（Daily08），Vicky翻垃圾找线索桥段，找到PAFF在Neko家里的证据。Hayato周末晚上在under Velvet有表演！！！！但是打算跟Vicky去伏击Neko家。  
 702年10月20日（St07），Vicky和Hayato前去蹲点。Vicky怀疑Hayato追查PAFF的动机，但是并有查到任何相关信息，认定hayato是边缘人，不会和大咖有什么关系。  
 702年10月23日（Daily08），神秘人N（ConneR）电话询问Vicky是否出售关于PAFF的资料，但被拒绝。  
@@ -42,4 +42,6 @@
 702年11月17日（cafe），paff在地下室想起来自己是Kaori，跑出去找Hayato。  
 702年11月17日（08Daily），Hayato对Vicky全盘托出（Hayato请求Node03管理局搜寻无果，病重的奶奶打算转让花花店以寻求管理局更多的帮助。虽然hayato想通过正经途径挣到更多的钱，但是最终和yamada走上了偷窃的道路。最后被玖凰会组员逮捕。凤凰认出了hayato，打算用芳奶奶做实验，最终以试验失败告终。但是给了hayato三十秒的离别机会），PAFF找上门。  
 702年11月23日（Grave），hayato带着paff的呢空来到芳奶奶的坟前，paff想起来了芳奶奶。背包丢失后，paff进入os空间和nora进行对话，nora让paff来找自己。  
-702年12月14日（Ward），混乱之后，PAFF、Neko和hayato回到了房间，突然断电。PAFF使用能力但是什么也没看见。（可能在萝卜头和Nora的帮助下）之后门自动打开了。
+702年12月14日（Ward），混乱之后，PAFF、Neko和hayato回到了房间，突然断电。PAFF使用能力但是什么也没看见。（可能在萝卜头和Nora的帮助下）之后门自动打开了。  
+702年12月15日（Ward），混战过后，xenon出走，Neko在nora的手下暗中护送回家。PAFF使用OS寻找xenon失败，发现自己无法进入OS。Nora无意得知PAFF可以透过能力操控网络中的装置能力，希望能够继续研究。Hayato和paff决定留下来。  
+702年12月20日（Kyuulab），凤凰最新研究成果表明终焉病毒本质，其属于人造物（奈米机器人），病毒之间的沟通联系方式类似精神网络。Nora怀疑终焉病毒是精神网络基础延伸出来的技术，也是这次技术暴走导致的古人类文明的灭绝。就算当下也没找到更多的免疫者，病毒的行为方式的无从得知，仿佛是有自我意识一般。病毒在脑内活动只能靠脑内讯号来判断。由于病毒活跃，PAFF开始使用能力寻找Xenon下落。Nora打算透过装置的故障时间和位置追查Xenon下落。根据情报，Nora基本肯定是Xenon单杀Diego及其在Node03党羽。安排好保护在Node03主角安全后，Nora打算大范围使用PAFF能力找出幕后的人，并且告诉了其后果，PAFF表示自愿参加。
