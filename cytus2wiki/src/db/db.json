@@ -5805,8 +5805,8 @@
         "imgUrl": "./img/song/crystalpunk/the_cross.jpg",
         "illustrator": "未知",
         "Ver": "2.8",
-        "BPM": "未知",
-        "BPMUrl": "https://cytus.fandom.com/wiki/Crystal_PuNK",
+        "BPM": "120-134",
+        "BPMUrl": "https://ct2view.the-kitti.com/chartlist.html",
         "duration": "2:52",
         "EasyLevel": "4",
         "EasyNote": "314",
@@ -8615,7 +8615,7 @@
         "HardLock": "Lv 22",
         "ChaosLevel": "12",
         "ChaosNote": "782",
-        "ChaosLock": "Paff, ROBO_Head, NEKONEKO#ΦωΦ Lv25",
+        "ChaosLock": "Paff, ROBO_Head, NEKO#ΦωΦ, Cherry Lv25",
         "videos": [
                   {
                     "id": 1,

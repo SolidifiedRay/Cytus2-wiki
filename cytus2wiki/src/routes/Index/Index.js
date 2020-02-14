@@ -29,27 +29,27 @@ class Index extends Component {
 		                            <div class="container index-ui-container">
 		                            <div class="row">
 		                                <div class="col-md-6 col-sm-12">
-		                                    <a href=""><img src={require('./images/game_play.jpg')} class="nav-ui"/></a>
+		                                    <a href="http://cytus2wiki.com/#/songlist/#top"><img src={require('./images/song.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
 		                                <div class="col-md-6 col-sm-12">
-		                                    <a href=""><img src={require('./images/character.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                            </div>
-		                            <div class="row">
-		                                <div class="col-md-6 col-sm-12">
-		                                    <a href=""><img src={require('./images/song.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                                <div class="col-md-6 col-sm-12">
-		                                    <a href=""><img src={require('./images/list.jpg')} class="nav-ui"/></a>
+		                                    <a href="http://cytus2wiki.com/#/charalist/#top"><img src={require('./images/character.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
 		                            </div>
 		                            <div class="row">
 		                                <div class="col-md-6 col-sm-12">
-		                                    <a href=""><img src={require('./images/update.jpg')} class="nav-ui"/></a>
+		                                    <a href="http://cytus2wiki.com/#/aboutgame/#top"><img src={require('./images/game_play.jpg')} class="nav-ui"/></a>
+		                                    <br/><br/>
+		                                </div>
+		                                <div class="col-md-6 col-sm-12">
+		                                    <a href="http://cytus2wiki.com/#/difficultylist/#top"><img src={require('./images/list.jpg')} class="nav-ui"/></a>
+		                                    <br/><br/>
+		                                </div>
+		                            </div>
+		                            <div class="row">
+		                                <div class="col-md-6 col-sm-12">
+		                                    <a href="http://cytus2wiki.com/#/update/#top"><img src={require('./images/update.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
 		                            </div>
