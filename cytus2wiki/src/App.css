@@ -413,3 +413,33 @@
 		font-size: 12px;
 		color: white;
 	}
+
+/* CAPSO */
+	.capso-box{
+		width: 90%; 
+		margin:0 auto; 
+		background-color: #1a000d;
+	}
+
+	.capso-result{
+		width: 90%; 
+		margin:0 auto; 
+	}
+
+	.capso-one-draw{
+		width:20%;
+		background-color: #1a000d;
+	}
+
+	.capso-ten-draw{
+		width:30%;
+		background-color: #1a000d;
+	}
+
+	.result-name{
+		font-size: 1px;
+	}
+
+	.capso-color{
+		background-color: #4d0028;
+	}

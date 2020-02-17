@@ -57,6 +57,7 @@ class Nav extends Component {
                                 <li className="cative"><HashLink to="/update/#top" className="navbar-subtitle">版本更新</HashLink></li>
                                 <li className="cative"><HashLink to="/aboutwiki/#top" className="navbar-subtitle">关于wiki</HashLink></li>
                                 <li className="cative"><HashLink to="/editwiki/#top" className="navbar-subtitle">编辑wiki</HashLink></li>
+                                <li className="cative"><HashLink to="/CAPSO/#top" className="navbar-subtitle">CAPSO</HashLink></li>
                             </ul>
                         </div>
                     </div>

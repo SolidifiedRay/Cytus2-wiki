@@ -12,6 +12,7 @@ import AboutGame from './routes/AboutGame/AboutGame';
 import DifficultyList from './routes/DifficultyList/DifficultyList';
 import CharaPage from './routes/CharaPage/CharaPage';
 import CharaList from './routes/CharaList/CharaList';
+import CAPSO from './routes/CAPSO/CAPSO';
 import { HashRouter as Router, Route } from 'react-router-dom';
 import Data from "./db/db"
 import './App.css';
@@ -40,6 +41,7 @@ class App extends Component {
         <Route path={'/difficultylist'} exact component={DifficultyList} />
 				<Route path={'/songlist'} exact component={SongList} />	
         <Route path={'/dlclist'} exact component={DLCList} /> 
+        <Route path={'/CAPSO'} exact component={CAPSO} /> 
 				<Route path={'/PAFF'} exact render={(props) => <CharaPage {...props} chara={"PAFF"} />}/>
         <Route path={'/NEKO'} exact render={(props) => <CharaPage {...props} chara={"NEKO#ΦωΦ"} />}/> 	
         <Route path={'/ROBO_Head'} exact render={(props) => <CharaPage {...props} chara={"ROBO_Head"} />}/>		

@@ -1,11 +1,22 @@
-2.85曲目已更新完毕，正在制作CASPO！的模拟器
+2.8.5曲目已更新完毕，wiki更新新功能CAPSO！抽卡模拟器
 
-2020年1月6日更新2.8  
+2020年1月6日更新2.8.5
 
-Cytus II 2.8 更新现已推出！    
+Cytus II 2.8.5 正式推出!
 
-- 推出全新付费角色 “Sagar” 及 “Rin” 带来丰富的收录歌曲及全新故事    
-藉由 A.R.C. 探勘队队长与神秘研究员的遭遇，挖掘数百年砂尘掩埋的过往、拾回人类所知历史中失落的那片拼图。    
+- 全新系统 CAPSO 实装  
+透过游玩过程累积 CAPSO 数量，将可随机抽选出新曲、新谱面、新角色造型等多样全新内容！    
 
-- 2首免费新曲追加   
-“NEKO ΦωΦ” 及 “Crystal PuNK” 角色各新增一首免费歌曲    
+- 5首Ivy新曲追加     
+Bloody Purity - eyemedia - 5/8/14  
+Masquerade - M2U - 4/7/11  
+Auantum Labyrinth - Haloweak - 4/7/11  
+Saika - Rabpit - 3/7/12  
+To Further Dream - Shinichi Kobayashi - 3/7/12
+
+- 5首新Glitch铺面  
+Imprinting - 15 - ConneR  
+Phantom Razor - 14 - Xenon  
+Dasein - 14 - ROBO_Head  
+Chrome VOX - 15 - NEKO#ΦωΦ  
+Gravity - 13 - PAFF
