@@ -24,34 +24,33 @@ class Index extends Component {
 		                    <hr/>
 		                    <img src={require('./images/main_theme2.jpg')} width="96%"/><br/><br/>
 		                    
-		                    <div class="nav-box nav-box-1">
-		                        <div class="scrollbar">
-		                            <div class="container index-ui-container">
+		                    <div class="">
+		                        <div class="">
+		                            <div class="container">
 		                            <div class="row">
-		                                <div class="col-md-6 col-sm-12">
+		                                <div class="col-md-3 col-sm-12" align="center">
 		                                    <a href="http://cytus2wiki.com/#/songlist/#top"><img src={require('./images/song.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
-		                                <div class="col-md-6 col-sm-12">
+		                                <div class="col-md-1 col-sm-12" align="center"></div>
+		                                <div class="col-md-3 col-sm-12" align="center">
 		                                    <a href="http://cytus2wiki.com/#/charalist/#top"><img src={require('./images/character.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
+		                                <div class="col-md-1 col-sm-12" align="center"></div>
 		                            </div>
 		                            <div class="row">
-		                                <div class="col-md-6 col-sm-12">
+		                                <div class="col-md-3 col-sm-12" align="center">
 		                                    <a href="http://cytus2wiki.com/#/aboutgame/#top"><img src={require('./images/game_play.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
-		                                <div class="col-md-6 col-sm-12">
+		                                <div class="col-md-1 col-sm-12" align="center"></div>
+		                                </div>
+		                                <div class="col-md-3 col-sm-12" align="center">
 		                                    <a href="http://cytus2wiki.com/#/difficultylist/#top"><img src={require('./images/list.jpg')} class="nav-ui"/></a>
 		                                    <br/><br/>
 		                                </div>
-		                            </div>
-		                            <div class="row">
-		                                <div class="col-md-6 col-sm-12">
-		                                    <a href="http://cytus2wiki.com/#/update/#top"><img src={require('./images/update.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
+		                                <div class="col-md-1 col-sm-12" align="center"></div>
 		                            </div>
 		                        </div>
 		                        </div>
