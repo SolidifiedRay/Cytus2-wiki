@@ -3,7 +3,7 @@ iM ID： CherryPuNK、 大姐头
 别名： Cherry  
 曲风： J-Rock（日本摇滚）、Punk（朋克）、Post-Rock（后摇）  
 主题色： 深红色  
-等级上限： Lv38 (版本2.85) 
+等级上限： Lv39 (版本2.9) 
 
 性别： 女性  
 身高： 170cm  

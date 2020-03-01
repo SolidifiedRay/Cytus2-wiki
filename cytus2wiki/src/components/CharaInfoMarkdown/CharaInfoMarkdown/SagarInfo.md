@@ -1,7 +1,7 @@
 姓名：Sagar Thakker  
 曲风：Western Ethnic  
 主题色：橙色  
-等级上限： Lv 20
+等级上限： Lv 21 (2.9 版本)
 
 年龄：26岁  
 生日：676年08月19日  

@@ -97,6 +97,24 @@ class DLCList extends Component {
 	            </tr>
         );
 
+        const EmotionSamples03 = Data.filter(info => {if(info.unlockList === "Emotion Samples 03") return info;});
+        const EmotionSamples03List = EmotionSamples03.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.character }</font>
+	                </td>
+	            </tr>
+        );
+
         const GameDisco2 = Data.filter(info => {if(info.unlockList === "Game Disc vol. 2") return info;});
         const GameDisco2List = GameDisco2.map((song) =>
 	            <tr key={song.id} className="song-list-tr">
@@ -657,6 +675,42 @@ class DLCList extends Component {
 			                        </div>
 			                        <br/><br/>
 
+			                        <div id="EmotionSamples03"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><font className="song-list-chara-title">Emotion Samples 03</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="background song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">角色</font>
+				                                        </th>
+				                                    </tr>
+				                                    { EmotionSamples03List }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
+
 			                    </div>
 							</div>
 							<div className="col-md-3 col-sm-12">
@@ -675,6 +729,7 @@ class DLCList extends Component {
 									<HashLink to="/dlclist/#MarvelousMixVol3"><font className="song-list-link">Marvelous Mix vol.3</font></HashLink><br/>
 									<HashLink to="/dlclist/#PuNKEP01"><font className="song-list-link">PuNK EP 01</font></HashLink><br/>
 									<HashLink to="/dlclist/#BattleCHAOS2019"><font className="song-list-link">Battle CHAOS 2019</font></HashLink><br/>
+									<HashLink to="/dlclist/#EmotionSamples03"><font className="song-list-link">Emotion Samples 03</font></HashLink><br/>
 									<br/>
 									<HashLink to="/songlist/#top">
 									<font className="song-list-link">角色曲目一览</font>

@@ -23,40 +23,34 @@ class Index extends Component {
 		                    <font class="font-title">Cytus II Wiki</font><br/>
 		                    <hr/>
 		                    <img src={require('./images/main_theme2.jpg')} width="96%"/><br/><br/>
-		                    
-		                    <div class="">
-		                        <div class="">
-		                            <div class="container">
-		                            <div class="row">
-		                                <div class="col-md-3 col-sm-12" align="center">
-		                                    <a href="http://cytus2wiki.com/#/songlist/#top"><img src={require('./images/song.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                                <div class="col-md-1 col-sm-12" align="center"></div>
-		                                <div class="col-md-3 col-sm-12" align="center">
-		                                    <a href="http://cytus2wiki.com/#/charalist/#top"><img src={require('./images/character.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                                <div class="col-md-1 col-sm-12" align="center"></div>
-		                            </div>
-		                            <div class="row">
-		                                <div class="col-md-3 col-sm-12" align="center">
-		                                    <a href="http://cytus2wiki.com/#/aboutgame/#top"><img src={require('./images/game_play.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                                <div class="col-md-1 col-sm-12" align="center"></div>
-		                                </div>
-		                                <div class="col-md-3 col-sm-12" align="center">
-		                                    <a href="http://cytus2wiki.com/#/difficultylist/#top"><img src={require('./images/list.jpg')} class="nav-ui"/></a>
-		                                    <br/><br/>
-		                                </div>
-		                                <div class="col-md-1 col-sm-12" align="center"></div>
-		                            </div>
-		                        </div>
-		                        </div>
-		                    </div>
-		                </div>
 
+                            <div class="container">
+	                            <div class="row">
+	                                <div class="col-md-3 col-sm-12" align="center">
+	                                    <a href="http://cytus2wiki.com/#/songlist/#top"><img src={require('./images/song.jpg')} class="nav-ui"/></a>
+	                                    <br/><br/>
+	                                </div>
+	                                <div class="col-md-1 col-sm-12" align="center"></div>
+	                                <div class="col-md-3 col-sm-12" align="center">
+	                                    <a href="http://cytus2wiki.com/#/charalist/#top"><img src={require('./images/character.jpg')} class="nav-ui"/></a>
+	                                    <br/><br/>
+	                                </div>
+	                                <div class="col-md-1 col-sm-12" align="center"></div>
+	                            </div>
+	                            <div class="row">
+	                                <div class="col-md-3 col-sm-12" align="center">
+	                                    <a href="http://cytus2wiki.com/#/aboutgame/#top"><img src={require('./images/game_play.jpg')} class="nav-ui"/></a>
+	                                    <br/><br/>
+	                                </div>
+	                                <div class="col-md-1 col-sm-12" align="center"></div>
+	                                <div class="col-md-3 col-sm-12" align="center">
+	                                    <a href="http://cytus2wiki.com/#/difficultylist/#top"><img src={require('./images/list.jpg')} class="nav-ui"/></a>
+	                                    <br/><br/>
+	                                </div>
+	                                <div class="col-md-1 col-sm-12" align="center"></div>
+                                </div>
+                            </div>
+		                </div>
 		                <div class="col-md-4 col-sm-12 center">
 		                	<br/><br/>
 		                    <font class="index-link-font">相关链接</font><br/><br/>

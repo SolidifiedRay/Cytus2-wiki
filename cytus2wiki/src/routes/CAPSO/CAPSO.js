@@ -8,9 +8,9 @@ class CAPSO extends Component {
 
 	state = {
 		item: '',
-		capso_list : ["to_further_dream","saika","quantum_labyrinth","masquerade","bloody_purity",
-						"to_further_dream_chaos","saika_chaos","quantum_labyrinth_chaos","masquerade_chaos","bloody_purity_chaos",
-						"chrome_vox_glitch","dasein_glitch","imprinting_glitch","gravity_glitch","phantom_razor_glitch",
+		capso_list : ["to_further_dream","saika","quantum_labyrinth","masquerade","bloody_purity","liber_me","qualia",
+						"to_further_dream_chaos","saika_chaos","quantum_labyrinth_chaos","masquerade_chaos","bloody_purity_chaos","liber_me_chaos","qualia_chaos",
+						"chrome_vox_glitch","dasein_glitch","imprinting_glitch","gravity_glitch","phantom_razor_glitch","kanta_glitch","happiness_breeze_glitch","credence_glitch","deadly_shoot_game_glitch",
 						"cherry_skin01","cherry_skin02","conner_skin01","ivy_skin01","joe_skin01","neko_skin01","neko_skin02","neko_skin03",
 						"nora_skin01","paff_skin01","paff_skin02","paff_skin03","robo_skin01","robo_skin02","xenon_skin01",
 						"tap_airhorn","tap_bell","tap_cat","tap_cheers","tap_clap","tap_click","tap_cookie","tap_dog","tap_gunshot","tap_keyboard","tap_synth",
@@ -104,6 +104,70 @@ class CAPSO extends Component {
 			                                            <font className="song-table-font">种类</font>
 			                                        </th>
 			                                    </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Cherry008/#top'}><font className="song-table-font song-table-link">CREDENCE</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/ROBO_Head001/#top'}><font className="song-table-font song-table-link">Deadly Slot Game</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/neko0004/#top'}><font className="song-table-font song-table-link">Happiness Breeze</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy032/#top'}><font className="song-table-font song-table-link">Qualia - Chaos</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy032/#top'}><font className="song-table-font song-table-link">Qualia - Easy/Hard</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy033/#top'}><font className="song-table-font song-table-link">Liber Me - Chaos</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy033/#top'}><font className="song-table-font song-table-link">Liber Me - Easy/Hard</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/paff004/#top'}><font className="song-table-font song-table-link">KANTA</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
 			                                    <tr className="song-list-tr">
 				                                    <td className="song-list-th">
 									                    <HashLink to={'/paff011/#top'}><font className="song-table-font song-table-link">Under the same sky</font></HashLink>
