@@ -22,7 +22,7 @@ class Index extends Component {
 		                <div class="col-md-8 col-sm-12">
 		                    <font class="font-title">Cytus II Wiki</font><br/>
 		                    <hr/>
-		                    <img src={require('./images/main_theme2.jpg')} width="96%"/><br/><br/>
+		                    <img src={require('./images/main_theme3.jpg')} width="100%"/><br/><br/><br/><br/>
 
                             <div class="container">
 	                            <div class="row">
@@ -31,7 +31,7 @@ class Index extends Component {
 	                                    <br/><br/>
 	                                </div>
 	                                <div class="col-md-1 col-sm-12" align="center"></div>
-	                                <div class="col-md-3 col-sm-12" align="center">
+	                                <div class="col-md-4 col-sm-12" align="center">
 	                                    <a href="http://cytus2wiki.com/#/charalist/#top"><img src={require('./images/character.jpg')} class="nav-ui"/></a>
 	                                    <br/><br/>
 	                                </div>
@@ -43,7 +43,7 @@ class Index extends Component {
 	                                    <br/><br/>
 	                                </div>
 	                                <div class="col-md-1 col-sm-12" align="center"></div>
-	                                <div class="col-md-3 col-sm-12" align="center">
+	                                <div class="col-md-4 col-sm-12" align="center">
 	                                    <a href="http://cytus2wiki.com/#/difficultylist/#top"><img src={require('./images/list.jpg')} class="nav-ui"/></a>
 	                                    <br/><br/>
 	                                </div>

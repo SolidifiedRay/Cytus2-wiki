@@ -24,6 +24,9 @@ class CharaList extends Component {
                 <HashLink to="/Crystal PuNK/#top">
                     <font className="font-subtitle">•Crystal PuNK</font><br/>
                 </HashLink>
+                <HashLink to="/Vanessa/#top">
+                    <font className="font-subtitle">•Vanessa</font><br/>
+                </HashLink>
                 <HashLink to="/Miku/#top">
                     <font className="font-subtitle">•Miku</font><br/>
                 </HashLink>

@@ -34,6 +34,7 @@ class Nav extends Component {
                                         <li><HashLink to="/ROBO_Head/#top">ROBO_Head</HashLink></li>
                                         <li><HashLink to="/Ivy/#top">Ivy</HashLink></li>
                                         <li><HashLink to="/Crystal PuNK/#top">Crystal PuNK</HashLink></li>
+                                        <li><HashLink to="/Vanessa/#top">Vanessa</HashLink></li>
                                         <li><HashLink to="/Miku/#top">Miku</HashLink></li>
                                         <li><HashLink to="/Xenon/#top">Xenon</HashLink></li>
                                         <li><HashLink to="/ConneR/#top">ConneR</HashLink></li>

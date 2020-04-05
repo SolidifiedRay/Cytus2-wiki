@@ -3,7 +3,8 @@ iM ID： Xenon
 别名： X、 Helmet Guy（头盔男）  
 曲风： Hard-Rock（重摇滚）、Metal（金属乐）、Metalcore、Post-Hardcore  
 主题色： 红色  
-等级上限：Lv41（版本2.9）  
+等级上限：Lv41（版本3.0）      
+配音：关智一  
 
 身高： 181cm  
 体重： 60kg  
