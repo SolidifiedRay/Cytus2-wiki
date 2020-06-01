@@ -17,7 +17,7 @@ class CAPSO extends Component {
 						"alterna_gallery","baptism_of_fire_gallery","blow_my_mind_gallery","body_talk_gallery","bullet_waiting_for_me_gallery", "chrome_vox_gallery",
 						"code_name_gama_gallery","fight_another_day_gallery","fireflies_gallery","gravity_gallery","green_hope_gallery","happiness_breeze_gallery",
 						"hard_landing_gallery","kanata_gallery","keep_it_up_gallery","one_way_love_gallery","reboost_gallery","resurrection_gallery","survive_gallery",
-						"the_spark_gallery","zealous_hearts_gallery","under_the_same_sky_gallery"],
+						"the_spark_gallery","zealous_hearts_gallery","under_the_same_sky_gallery","conflict_glitch","freedom_dive_chaos","freedom_dive"],
 		note: ''
 	}
 
@@ -106,10 +106,26 @@ class CAPSO extends Component {
 			                                    </tr>
 			                                    <tr className="song-list-tr">
 				                                    <td className="song-list-th">
-									                    <HashLink to={'/Cherry008/#top'}><font className="song-table-font song-table-link">CREDENCE</font></HashLink>
+									                    <HashLink to={'/Ivy038/#top'}><font className="song-table-font song-table-link">Conflict</font></HashLink>
 									                </td>
 									                <td className="song-list-th">
 									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy039/#top'}><font className="song-table-font song-table-link">FREEDOM DIVE - Easy/Hard</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy039/#top'}><font className="song-table-font song-table-link">FREEDOM DIVE - Chaos</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
 									                </td>
 								                </tr>
 			                                    <tr className="song-list-tr">

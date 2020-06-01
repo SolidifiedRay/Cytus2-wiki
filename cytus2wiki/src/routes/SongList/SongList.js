@@ -298,6 +298,24 @@ class SongList extends Component {
 	            </tr>
         );
 
+        const KizunaAISong = Data.filter(info => {if(info.character === "KizunaAI") return info;});
+        const KizunaAISongList = KizunaAISong.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.unlockList }</font>
+	                </td>
+	            </tr>
+        );
+
 		return (
 			<div className="background">
 				<Router>
@@ -521,6 +539,42 @@ class SongList extends Component {
 				                                        </th>
 				                                    </tr>
 				                                    { VanessaSongList }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
+			                        <div id="KizunaAI"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><img src={require('./images/logos/KizunaAI_Logo.png')} className="song-list-chara-logo"/></th>
+					                                <th><font className="song-list-chara-title">Kizuna AI</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="KizunaAI-color song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="KizunaAI-color song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="KizunaAI-color song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="KizunaAI-color song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">解锁</font>
+				                                        </th>
+				                                    </tr>
+				                                    { KizunaAISongList }
 			                                    </tbody>
 			                                </table>
 			                            </div>
@@ -901,6 +955,7 @@ class SongList extends Component {
 									<HashLink to="/songlist/#Vanessa"><font className="song-list-link">Vanessa</font></HashLink><br/>
 									<br/>
 									<b><font className="song-list-link">付费角色曲包</font><br/></b>
+									<HashLink to="/songlist/#KizunaAI"><font className="song-list-link">Kizuna AI</font></HashLink><br/>
 									<HashLink to="/songlist/#Miku"><font className="song-list-link">Miku</font></HashLink><br/>
 									<HashLink to="/songlist/#Xenon"><font className="song-list-link">Xenon</font></HashLink><br/>
 									<HashLink to="/songlist/#ConneR"><font className="song-list-link">ConneR</font></HashLink><br/>

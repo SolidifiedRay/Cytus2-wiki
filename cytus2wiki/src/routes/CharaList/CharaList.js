@@ -45,38 +45,41 @@ class CharaList extends Component {
 		            </div>
 		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
+		                    <HashLink to="/KizunaAi/#top"><img src={require("./images/KizunaAI.png")} width="68%"/></HashLink>
+		                </div>
+		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Miku/#top"><img src={require("./images/Miku1.png")} width="95%"/></HashLink>
 		                </div>
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Xenon/#top"><img src={require("./images/xenon1.png")} width="105%"/></HashLink>
 		                </div>
+		            </div>
+		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/ConneR/#top"><img src={require("./images/Conner1.png")} width="90%"/></HashLink>
 		                </div>
-		            </div>
-		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Cherry/#top"><img src={require("./images/Cherry1.png")} width="80%"/></HashLink>
 		                </div>
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/JOE/#top"><img src={require("./images/Joe1.png")} width="97%"/></HashLink>
 		                </div>
+		            </div>
+		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Sagar/#top"><img src={require("./images/Sagar.png")} width="73%"/></HashLink>
 		                </div>
-		            </div>
-		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Rin/#top"><img src={require("./images/Rin.png")} width="59%"/></HashLink>
 		                </div>
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Aroma/#top"><img src={require("./images/Aroma1.png")} width="80%"/></HashLink>
 		                </div>
+		            </div>
+		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Nora/#top"><img src={require("./images/Nora1.png")} width="84%"/></HashLink>
 		                </div>
-		            </div>
-		            <div class="row">
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/NekoDLC/#top"><img src={require("./images/Neko2.png")} width="95%"/></HashLink>
 		                </div>
