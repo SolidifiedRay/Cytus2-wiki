@@ -277,6 +277,24 @@ class DLCList extends Component {
 	            </tr>
         );
 
+        const DJMAXVol2 = Data.filter(info => {if(info.unlockList === "DJMAX Vol. 2") return info;});
+        const DJMAXVol2List = DJMAXVol2.map((song) =>
+	            <tr key={song.id} className="song-list-tr">
+	                <td className="song-list-th">
+	                    <HashLink to={'/'+song.id+'/#top'}><font className="song-table-font song-table-link">{ song.title }</font></HashLink>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.artist }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.levelList }</font>
+	                </td>
+	                <td className="song-list-th">
+	                    <font className="song-table-font">{ song.character }</font>
+	                </td>
+	            </tr>
+        );
+
 
 		return (
 			<div className="background">
@@ -816,6 +834,41 @@ class DLCList extends Component {
 			                        </div>
 			                        <br/><br/>
 
+			                        <div id="DJMAXVol2"><br/></div>
+			                        <div>
+			                            <table>
+			                            	<tbody>
+					                            <tr>
+					                                <th><font className="song-list-chara-title">DJMAX Vol.2</font></th>
+					                            </tr>
+					                        </tbody>
+			                            </table>
+			                            <br/>
+			                            *<b>点击曲名查看曲目详情</b> 手机端浏览可以左右滑动查看表格<br/>
+			                            <div className="table-responsive">
+			                                <table className="table song-list-table">
+			                                	<tbody>
+				                                    <tr>
+				                                        <th className="background song-list-th song-list-song-name-th">
+				                                            <font className="song-table-font">曲名</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-artists-th">
+				                                            <font className="song-table-font">作者</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-difficulty-th">
+				                                            <font className="song-table-font">难度</font>
+				                                        </th>
+				                                        <th className="background song-list-th song-list-unlock-th">
+				                                            <font className="song-table-font">角色</font>
+				                                        </th>
+				                                    </tr>
+				                                    { DJMAXVol2List }
+			                                    </tbody>
+			                                </table>
+			                            </div>
+			                        </div>
+			                        <br/><br/>
+
 
 			                    </div>
 							</div>
@@ -838,6 +891,7 @@ class DLCList extends Component {
 									<HashLink to="/dlclist/#EmotionSamples03"><font className="song-list-link">Emotion Samples 03</font></HashLink><br/>
 									<HashLink to="/dlclist/#maimaiDX"><font className="song-list-link">maimai DX+</font></HashLink><br/>
 									<HashLink to="/dlclist/#DJMAXVol1"><font className="song-list-link">DJMAX Vol.1</font></HashLink><br/>
+									<HashLink to="/dlclist/#DJMAXVol2"><font className="song-list-link">DJMAX Vol.2</font></HashLink><br/>
 									<br/>
 									<HashLink to="/songlist/#top">
 									<font className="song-list-link">角色曲目一览</font>
