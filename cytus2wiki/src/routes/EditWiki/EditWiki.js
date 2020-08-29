@@ -50,9 +50,8 @@ class EditWiki extends Component {
 		                        如何更改数据<br/>
 		                        每一首曲子的页面数据都如下图所示：<br/>
 		                        可以用Ctrl+F来搜索曲子<br/>
-		                        如要上传歌词，曲绘，介绍等，需要在自行上传md文件<br/>
+		                        如要上传歌词，曲绘，介绍等，需要自行上传md文件<br/>
 		                        LyricUrl为歌词文件路径，IntroUrl为介绍文件路径，coverArtUrl为曲绘文件路径<br/>
-		                        *1月底前会再更新一份具体的如何修改数据的手册<br/>
                        			<img src={require("./images/7.png")} width="50%"/><br/>
 		                    	</div>
 		                	</div>

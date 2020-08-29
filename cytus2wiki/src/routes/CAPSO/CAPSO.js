@@ -18,7 +18,7 @@ class CAPSO extends Component {
 						"code_name_gama_gallery","fight_another_day_gallery","fireflies_gallery","gravity_gallery","green_hope_gallery","happiness_breeze_gallery",
 						"hard_landing_gallery","kanata_gallery","keep_it_up_gallery","one_way_love_gallery","reboost_gallery","resurrection_gallery","survive_gallery",
 						"the_spark_gallery","zealous_hearts_gallery","under_the_same_sky_gallery","conflict_glitch","freedom_dive_chaos","freedom_dive","hydrangea_glitch",
-						"re_boost_glitch","perspectives_glitch"],
+						"re_boost_glitch","perspectives_glitch","Halcyon","Halcyon_chaos"],
 		note: ''
 	}
 
@@ -105,6 +105,22 @@ class CAPSO extends Component {
 			                                            <font className="song-table-font">种类</font>
 			                                        </th>
 			                                    </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy044/#top'}><font className="song-table-font song-table-link">Halcyon - Chaos</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy044/#top'}><font className="song-table-font song-table-link">Halcyon - Easy/Hard</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Chart</font>
+									                </td>
+								                </tr>
 			                                    <tr className="song-list-tr">
 				                                    <td className="song-list-th">
 									                    <HashLink to={'/paff009/#top'}><font className="song-table-font song-table-link">Re:Boost</font></HashLink>

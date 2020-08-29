@@ -59,6 +59,7 @@ class App extends Component {
         <Route path={'/Rin'} exact render={(props) => <CharaPage {...props} chara={"Rin"} />}/>          
         <Route path={'/Vanessa'} exact render={(props) => <CharaPage {...props} chara={"Vanessa"} />}/>   
         <Route path={'/KizunaAI'} exact render={(props) => <CharaPage {...props} chara={"KizunaAI"} />}/>  
+        <Route path={'/BoBo'} exact render={(props) => <CharaPage {...props} chara={"BoBo"} />}/>  
 				{ songs }
 			</Router>
 		</div>

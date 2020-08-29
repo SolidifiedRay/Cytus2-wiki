@@ -61,7 +61,8 @@ class Index extends Component {
 		                    <a href="https://www.taptap.com/app/153415" target="_blank"><font class="font-subtitle">安卓国服下载链接</font></a><br/>
 		                    <a href="https://itunes.apple.com/cn/app/id1316883372" target="_blank"><font class="font-subtitle">ios国服下载链接</font></a><br/><br/>
 		                    <font class="font-subtitle">wiki 交流q群 ： 260032920</font><br/>
-		                    <a href="https://www.weibo.com/5121541026/profile?rightmod=1&wvr=6&mod=personinfo" target="_blank"><font class="font-subtitle">wiki个人微博：@SolidifiedRay</font></a>
+		                    <a href="https://www.weibo.com/5121541026/profile?rightmod=1&wvr=6&mod=personinfo" target="_blank"><font class="font-subtitle">wiki个人微博：@SolidifiedRay</font></a><br/><br/>
+		                    <a href="https://gamebaikeshuwiki.miraheze.org/wiki/%E9%A6%96%E9%A1%B5" target="_blank"><font class="font-subtitle">友链： 游戏百科书wiki</font></a>
 		                    <br/><br/>
 		                    <img src={require('./images/rayark.png')} width="80%"/><br/><br/><br/><br/><br/><br/>
 		                    <br/><br/><br/>
