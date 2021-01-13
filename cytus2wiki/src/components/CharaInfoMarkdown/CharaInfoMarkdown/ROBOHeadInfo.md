@@ -3,7 +3,7 @@ iM ID： ROBO_Head
 别名： ROBO  
 曲风： Techno（科技舞曲）、Electronic（电子音乐）、Dubstep（回响贝斯）、Hardcore（硬核摇滚）、Trance（迷幻电子乐）  
 主题色： 蓝色  
-等级上限：Lv70（版本3.0）
+等级上限：Lv80（版本3.6）
 
 身高： 190cm  
 体重： 101kg  

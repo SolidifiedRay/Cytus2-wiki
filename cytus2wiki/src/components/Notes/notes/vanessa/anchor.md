@@ -1,0 +1,16 @@
+List of songs quoted in Anchor:  
+- Body Talk  
+- change  
+- Cityscape  
+- Favorites  
+- Fight Another Day  
+- Fireflies  
+- Gravity  
+- Lilac for Anabel  
+- New World  
+- PERSPECTIVES  
+- Super attractor  
+- Survive  
+- Who Am I?  
+- 漂流  
+- 风の声  

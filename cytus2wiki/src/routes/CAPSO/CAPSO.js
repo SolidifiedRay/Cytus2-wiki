@@ -107,6 +107,46 @@ class CAPSO extends Component {
 			                                    </tr>
 			                                    <tr className="song-list-tr">
 				                                    <td className="song-list-th">
+									                    <HashLink to={'/Neko1001/#top'}><font className="song-table-font song-table-link">Chocolate missile</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/neko0013/#top'}><font className="song-table-font song-table-link">extinguisher</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={''}><font className="song-table-font song-table-link">ROBO_HEAD - Maid</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Skin</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Nora006/#top'}><font className="song-table-font song-table-link">Bastard of Hardcore</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
+									                    <HashLink to={'/Ivy044/#top'}><font className="song-table-font song-table-link">Pure Powerstomper</font></HashLink>
+									                </td>
+									                <td className="song-list-th">
+									                    <font className="song-table-font">Glitch</font>
+									                </td>
+								                </tr>
+			                                    <tr className="song-list-tr">
+				                                    <td className="song-list-th">
 									                    <HashLink to={'/Ivy044/#top'}><font className="song-table-font song-table-link">Halcyon - Chaos</font></HashLink>
 									                </td>
 									                <td className="song-list-th">

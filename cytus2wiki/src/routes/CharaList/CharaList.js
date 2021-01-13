@@ -48,7 +48,18 @@ class CharaList extends Component {
 		                    <HashLink to="/BoBo/#top"><img src={require("./images/BoBo.png")} width="58%"/></HashLink>
 		                </div>
 		                <div class="col-md-4 col-sm-12 font-center">
+		                    <HashLink to="/GraffJ/#top"><img src={require("./images/GraffJ.png")} width="68%"/></HashLink>
+		                </div>
+		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/KizunaAi/#top"><img src={require("./images/KizunaAI.png")} width="68%"/></HashLink>
+		                </div>
+		            </div>
+		            <div class="row">
+		                <div class="col-md-4 col-sm-12 font-center">
+		                    <HashLink to="/Alice/#top"><img src={require("./images/Alice.png")} width="68%"/></HashLink>
+		                </div>
+		                <div class="col-md-4 col-sm-12 font-center">
+		                    <HashLink to="/Hans/#top"><img src={require("./images/Hans.png")} width="68%"/></HashLink>
 		                </div>
 		                <div class="col-md-4 col-sm-12 font-center">
 		                    <HashLink to="/Miku/#top"><img src={require("./images/Miku1.png")} width="95%"/></HashLink>

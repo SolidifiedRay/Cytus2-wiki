@@ -316,6 +316,18 @@
 		background-color: #459e3f;
 	}
 
+	.Alice-color{
+		background-color: #5c2420;
+	}
+
+	.Hans-color{
+		background-color: #2b2925;
+	}
+
+	.GraffJ-color{
+		background-color: #c29334;
+	}
+
 /* 曲目页面角色logo大小 */
 	.song-list-Aroma-logo{
 		width: 35px;

@@ -36,7 +36,10 @@ class Nav extends Component {
                                         <li><HashLink to="/Crystal PuNK/#top">Crystal PuNK</HashLink></li>
                                         <li><HashLink to="/Vanessa/#top">Vanessa</HashLink></li>
                                         <li><HashLink to="/BoBO/#top">Bo Bo</HashLink></li>
+                                        <li><HashLink to="/GraffJ/#top">Graff.J</HashLink></li>
                                         <li><HashLink to="/KizunaAI/#top">Kizuna AI</HashLink></li>
+                                        <li><HashLink to="/Alice/#top">Alice</HashLink></li>
+                                        <li><HashLink to="/Hans/#top">Hans</HashLink></li>
                                         <li><HashLink to="/Miku/#top">Miku</HashLink></li>
                                         <li><HashLink to="/Xenon/#top">Xenon</HashLink></li>
                                         <li><HashLink to="/ConneR/#top">ConneR</HashLink></li>

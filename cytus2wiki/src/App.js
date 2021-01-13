@@ -60,6 +60,9 @@ class App extends Component {
         <Route path={'/Vanessa'} exact render={(props) => <CharaPage {...props} chara={"Vanessa"} />}/>   
         <Route path={'/KizunaAI'} exact render={(props) => <CharaPage {...props} chara={"KizunaAI"} />}/>  
         <Route path={'/BoBo'} exact render={(props) => <CharaPage {...props} chara={"BoBo"} />}/>  
+        <Route path={'/Alice'} exact render={(props) => <CharaPage {...props} chara={"Alice"} />}/>  
+        <Route path={'/Hans'} exact render={(props) => <CharaPage {...props} chara={"Hans"} />}/>  
+        <Route path={'/GraffJ'} exact render={(props) => <CharaPage {...props} chara={"GraffJ"} />}/>  
 				{ songs }
 			</Router>
 		</div>
