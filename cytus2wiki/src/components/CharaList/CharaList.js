@@ -33,8 +33,8 @@ class CharaList extends Component {
                 <HashLink to="/GraffJ/#top">
                     <font className="font-subtitle">•Graff.J</font><br/>
                 </HashLink>
-                <HashLink to="/KizunaAI/#top">
-                    <font className="font-subtitle">•Kizuna AI</font><br/>
+                <HashLink to="/Kaf/#top">
+                    <font className="font-subtitle">•Kaf</font><br/>
                 </HashLink>
                 <HashLink to="/Alice/#top">
                     <font className="font-subtitle">•Alice</font><br/>
@@ -42,8 +42,14 @@ class CharaList extends Component {
                 <HashLink to="/Hans/#top">
                     <font className="font-subtitle">•Hans</font><br/>
                 </HashLink>
+                <HashLink to="/KizunaAI/#top">
+                    <font className="font-subtitle">•Kizuna AI</font><br/>
+                </HashLink>
                 <HashLink to="/Miku/#top">
                     <font className="font-subtitle">•Miku</font><br/>
+                </HashLink>
+                <HashLink to="/Ilka/#top">
+                    <font className="font-subtitle">•Ilka</font><br/>
                 </HashLink>
                 <HashLink to="/Xenon/#top">
                     <font className="font-subtitle">•Xenon</font><br/>
